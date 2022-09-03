@@ -16,12 +16,12 @@
         "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_id_card_front.png"
     },
     {
-        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shape_white.xml.flat",
-        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\drawable\\shape_white.xml"
-    },
-    {
         "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_no.png.flat",
         "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\drawable-xhdpi\\no.png"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shape_white.xml.flat",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\drawable\\shape_white.xml"
     },
     {
         "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_id_card_back.png.flat",
@@ -44,12 +44,12 @@
         "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\drawable-xxhdpi\\cha.png"
     },
     {
-        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
-        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\activity_login.xml"
-    },
-    {
         "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon_buy_no.png.flat",
         "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\drawable-xxhdpi\\icon_buy_no.png"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\activity_login.xml"
     },
     {
         "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_activity_step.9.png.flat",
@@ -72,12 +72,12 @@
         "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\drawable-xxhdpi\\home_six_no_color.png"
     },
     {
-        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_home_one_color.png.flat",
-        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\drawable-xxhdpi\\home_one_color.png"
-    },
-    {
         "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_gonggao.xml.flat",
         "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\activity_gonggao.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_home_one_color.png.flat",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\drawable-xxhdpi\\home_one_color.png"
     },
     {
         "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon_back_gray.png.flat",
@@ -124,12 +124,12 @@
         "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\drawable-xxhdpi\\icon_id_card_back.png"
     },
     {
-        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_icon_grey_search.png.flat",
-        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\mipmap-xhdpi\\icon_grey_search.png"
-    },
-    {
         "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_take_photo.xml.flat",
         "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\drawable\\ic_take_photo.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_icon_grey_search.png.flat",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\mipmap-xhdpi\\icon_grey_search.png"
     },
     {
         "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shape_six_lever_buy_frame.xml.flat",
@@ -208,12 +208,12 @@
         "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\adapter_option_history.xml"
     },
     {
-        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_chat_bg_left.9.png.flat",
-        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\drawable\\icon_chat_bg_left.9.png"
-    },
-    {
         "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
         "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_chat_bg_left.9.png.flat",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\drawable\\icon_chat_bg_left.9.png"
     },
     {
         "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_myorder_item.xml.flat",
@@ -344,12 +344,12 @@
         "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\activity_extract.xml"
     },
     {
-        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\res\\merged\\debug\\layout_permission_die.xml.flat",
-        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\permission_die.xml"
-    },
-    {
         "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_image_back_coin_manage.png.flat",
         "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\drawable-xxxhdpi\\image_back_coin_manage.png"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\res\\merged\\debug\\layout_permission_die.xml.flat",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\permission_die.xml"
     },
     {
         "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_home_fabi.png.flat",
@@ -376,16 +376,16 @@
         "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\dialog_assetpwd.xml"
     },
     {
-        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_sell_no.png.flat",
-        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\drawable-xhdpi\\icon_sell_no.png"
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon_eye_guan.png.flat",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\drawable-xxhdpi\\icon_eye_guan.png"
     },
     {
         "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_up_ads.png.flat",
         "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\drawable-xhdpi\\icon_up_ads.png"
     },
     {
-        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon_eye_guan.png.flat",
-        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\drawable-xxhdpi\\icon_eye_guan.png"
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_sell_no.png.flat",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\drawable-xhdpi\\icon_sell_no.png"
     },
     {
         "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_circle_orange_back.png.flat",
@@ -408,12 +408,12 @@
         "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\drawable-xhdpi\\icon_back.png"
     },
     {
-        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_credit.xml.flat",
-        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\activity_credit.xml"
-    },
-    {
         "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon_into_gray.png.flat",
         "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\drawable-xxhdpi\\icon_into_gray.png"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_credit.xml.flat",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\activity_credit.xml"
     },
     {
         "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_cm_logo_login.png.flat",
@@ -424,16 +424,16 @@
         "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\adapter_compensation.xml"
     },
     {
-        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\res\\merged\\debug\\drawable_selector_lock_switch_thumn.xml.flat",
-        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\drawable\\selector_lock_switch_thumn.xml"
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_load_progress_anim.xml.flat",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\drawable-nodpi\\load_progress_anim.xml"
     },
     {
         "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_activitydetail_item.xml.flat",
         "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\layout_activitydetail_item.xml"
     },
     {
-        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_load_progress_anim.xml.flat",
-        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\drawable-nodpi\\load_progress_anim.xml"
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\res\\merged\\debug\\drawable_selector_lock_switch_thumn.xml.flat",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\drawable\\selector_lock_switch_thumn.xml"
     },
     {
         "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\res\\merged\\debug\\layout_adapter_wallet_list.xml.flat",
@@ -444,12 +444,12 @@
         "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\mipmap-xhdpi\\icon_select.png"
     },
     {
-        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_pic_login_bg.png.flat",
-        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\mipmap-xxxhdpi\\pic_login_bg.png"
-    },
-    {
         "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_c2_cbuy.xml.flat",
         "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\activity_c2_cbuy.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_pic_login_bg.png.flat",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\mipmap-xxxhdpi\\pic_login_bg.png"
     },
     {
         "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\res\\merged\\debug\\drawable_selector_circle_indicator.xml.flat",
