@@ -3419,6 +3419,7 @@ mipmap gt3logogreen
 mipmap gt3logored
 mipmap ic_cm_logo
 mipmap ic_cm_logo_login
+mipmap ic_launcher
 mipmap icon_arrow
 mipmap icon_arrow_black
 mipmap icon_banner

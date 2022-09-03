@@ -180,7 +180,7 @@ MERGED from [com.contrarywind:wheelview:4.0.6] C:\Users\15036\.gradle\caches\tra
 	android:largeHeap
 		ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:25:9-33
 	android:icon
-		ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:23:9-42
+		ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:23:9-43
 	android:allowBackup
 		ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:22:9-35
 	android:theme
