@@ -9,7 +9,7 @@
     <string name="Italian">italien</string>
     <string name="Spanish">En francés</string>
 
-    <string name="app_name">KDC exchange</string>
+    <string name="app_name">Coin Dealer</string>
     <string name="cancle">Annuler</string>
     <string name="confirm">déterminer</string>
     <string name="back">revenir</string>
@@ -120,7 +120,7 @@
 
     <!--我的-->
     <string name="not_logged_in">Pas connecté</string>
-    <string name="welcome_to">Bienvenue sur KDC exchange</string>
+    <string name="welcome_to">Bienvenue sur Coin Dealer</string>
     <string name="my_order">Ma commande</string>
     <string name="my_ads">Mon annonce</string>
     <string name="my_message">Actualités de la plateforme</string>
@@ -491,8 +491,8 @@
     <string name="forgot_password">mot de passe oublié?</string>
     <string name="goto_regist">S\'inscrire maintenant</string>
     <string name="goto_login">connectez-vous immédiatement</string>
-    <string name="no_zhanghao">Vous n\'avez pas de compte KDC exchange?</string>
-    <string name="yes_zhanghao">Vous avez déjà un compte KDC exchange</string>
+    <string name="no_zhanghao">Vous n\'avez pas de compte Coin Dealer?</string>
+    <string name="yes_zhanghao">Vous avez déjà un compte Coin Dealer</string>
 
     <!--注册-->
     <string name="email_sign_up">inscription par e-mail</string>
@@ -523,9 +523,9 @@
     <!--充币-->
     <string name="copy_success">Copier dans le presse-papier!</string>
     <!--关于我们-->
-    <string name="about_1">La plate-forme internationale de négociation d\'actifs numériques cryptés KDC exchange est une plate-forme complète de négociation d\'actifs numériques. \n \n La plate-forme internationale de négociation d\'actifs cryptés numériques KDC exchange fournit également des services de blockchain à guichet unique, notamment la planification du livre blanc sur la monnaie numérique, l\'ajustement de l\'algorithme de cryptage, la recherche et le développement de devises numériques et le lancement de la plate-forme de négociation. \n \n Les centres d\'opérations à l\'étranger de la plate-forme internationale de négociation d\'actifs chiffrés numériques KDC exchange sont établis à Singapour, au Cambodge et à Marshall. Il y a trois bureaux nationaux à Beijing, Zhengzhou et Shenzhen; le siège chinois est installé dans le parc international de l\'industrie de l\'information de Hainan Lingshui Qingshuiwan. \n</string>
-    <string name="about_2">Le développement des actifs numériques bat son plein, avec un mélange de bons et de mauvais. KDC exchange examinera les actifs numériques de haute qualité, prêtera attention à la transparence et à la structure de gouvernance du projet, sur la base des critères de sélection formés par son propre système de notation, se référera aux décisions des investisseurs du marché et explorera conjointement la valeur des actifs numériques de haute qualité. \nNotre philosophie est la suivante: créer un sol écologique de haute qualité pour une circulation de valeur et une co-culture avec chaque membre qui se rassemble librement ici. \n</string>
-    <string name="about_3">L\'objectif de KDC exchange est d\'établir une plateforme de trading relativement décentralisée. L\'environnement opérationnel de la plateforme évolue de manière sûre, équitable et saine, innovante et itérative, et en ligne avec la tendance du progrès social et du développement.</string>
+    <string name="about_1">La plate-forme internationale de négociation d\'actifs numériques cryptés Coin Dealer est une plate-forme complète de négociation d\'actifs numériques. \n \n La plate-forme internationale de négociation d\'actifs cryptés numériques Coin Dealer fournit également des services de blockchain à guichet unique, notamment la planification du livre blanc sur la monnaie numérique, l\'ajustement de l\'algorithme de cryptage, la recherche et le développement de devises numériques et le lancement de la plate-forme de négociation. \n \n Les centres d\'opérations à l\'étranger de la plate-forme internationale de négociation d\'actifs chiffrés numériques Coin Dealer sont établis à Singapour, au Cambodge et à Marshall. Il y a trois bureaux nationaux à Beijing, Zhengzhou et Shenzhen; le siège chinois est installé dans le parc international de l\'industrie de l\'information de Hainan Lingshui Qingshuiwan. \n</string>
+    <string name="about_2">Le développement des actifs numériques bat son plein, avec un mélange de bons et de mauvais. Coin Dealer examinera les actifs numériques de haute qualité, prêtera attention à la transparence et à la structure de gouvernance du projet, sur la base des critères de sélection formés par son propre système de notation, se référera aux décisions des investisseurs du marché et explorera conjointement la valeur des actifs numériques de haute qualité. \nNotre philosophie est la suivante: créer un sol écologique de haute qualité pour une circulation de valeur et une co-culture avec chaque membre qui se rassemble librement ici. \n</string>
+    <string name="about_3">L\'objectif de Coin Dealer est d\'établir une plateforme de trading relativement décentralisée. L\'environnement opérationnel de la plateforme évolue de manière sûre, équitable et saine, innovante et itérative, et en ligne avec la tendance du progrès social et du développement.</string>
 
     <string-array name="home_two_top_tab">
         <item>Optionnel</item>
@@ -942,7 +942,7 @@
     <!--    web-->
     <string name="help">Aidez-moi</string>
     <string name="details">Détails</string>
-    <string name="web_url">KDC exchange6.COM</string>
+    <string name="web_url">Coin Dealer6.COM</string>
     <string name="web_tv1">Plateforme mondiale de trading Bitcoin</string>
     <string name="web_tv2">Plateforme mondiale de négociation d\'actifs numériques</string>
     <string name="web_share">Partagez-le</string>
@@ -964,12 +964,12 @@
     <string name="up_app">\nOuch! L\'APP est mise à jour! \nIl est recommandé de passer à la dernière version dès que possible. L\'échec de la mise à niveau peut affecter votre expérience et votre sécurité financière!</string>
 
     <!--关于我们-->
-    <string name="about_title1">\nÀ propos de KDC exchange \n</string>
-    <string name="about_title2">\nConcept KDC exchange \n</string>
-    <string name="about_title3">\nCible KDC exchange \n</string>
+    <string name="about_title1">\nÀ propos de Coin Dealer \n</string>
+    <string name="about_title2">\nConcept Coin Dealer \n</string>
+    <string name="about_title3">\nCible Coin Dealer \n</string>
     <string name="about_title4">\nContactez-nous \n</string>
     <string name="about_email">Courriel: Serve@bishang366.com</string>
-    <string name="about_gang">Communauté officielle KDC exchange</string>
+    <string name="about_gang">Communauté officielle Coin Dealer</string>
 
     <!--    身份认证-->
     <string name="up_you_picture">Prenez et téléchargez votre photo d\'identité</string>

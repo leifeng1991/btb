@@ -170,7 +170,7 @@ public class WalletActivity extends BaseActivity implements WalletContract.View,
     protected void initViews(Bundle savedInstanceState) {
 
         SharedPreferenceInstance.getInstance().saveaToken(EncryUtils.getInstance().decryptString(SharedPreferenceInstance.getInstance().getToken(), MyApplication.getApp().getPackageName()));
-        Log.e("@@@","wallet----language===="+ PreferenceUtil.getString("language", "en"));
+        Log.e("@@@","wallet----language===="+ PreferenceUtil.getString("language", "ch"));
         viewModel = new ViewModelProvider(getViewModelStore(), ViewModelProvider.AndroidViewModelFactory.getInstance(getApplication())).get(WalletViewModel.class);
         new WalletPresenter(Injection.provideTasksRepository(getApplicationContext()), this);
         ibBack.setOnClickListener(this);

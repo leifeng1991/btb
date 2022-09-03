@@ -82,7 +82,7 @@ public abstract class BaseActivity extends AppCompatActivity {
         //初始化PreferenceUtil
         BaseActivity.PreferenceUtil.init(this);
         //根据上次的语言设置，重新设置语言
-        switchLanguage(BaseActivity.PreferenceUtil.getString("language", "zh"));
+        switchLanguage(BaseActivity.PreferenceUtil.getString("language", "ch"));
     }
     protected View getContentView() {
         return null;

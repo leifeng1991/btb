@@ -8,7 +8,7 @@
     <string name="Italian">意大利語</string>
     <string name="Spanish">西班牙語</string>
 
-    <string name="app_name">KDC exchange</string>
+    <string name="app_name">Coin Dealer</string>
     <string name="cancle">取消</string>
     <string name="confirm">確定</string>
     <string name="back">返回</string>
@@ -119,7 +119,7 @@
 
     <!--我的-->
     <string name="not_logged_in">未登錄</string>
-    <string name="welcome_to">歡迎來到KDC exchange</string>
+    <string name="welcome_to">歡迎來到Coin Dealer</string>
     <string name="my_order">我的訂單</string>
     <string name="my_ads">我的廣告</string>
     <string name="my_message">平台消息</string>
@@ -490,8 +490,8 @@
     <string name="forgot_password">忘記密碼？ </string>
     <string name="goto_regist">立即註冊</string>
     <string name="goto_login">立即登錄</string>
-    <string name="no_zhanghao">沒有KDC exchange帳號？ </string>
-    <string name="yes_zhanghao">已有KDC exchange帳號</string>
+    <string name="no_zhanghao">沒有Coin Dealer帳號？ </string>
+    <string name="yes_zhanghao">已有Coin Dealer帳號</string>
 
     <!--註冊-->
     <string name="email_sign_up">郵箱註冊</string>
@@ -522,9 +522,9 @@
     <!--充幣-->
     <string name="copy_success">已復製到剪貼板!</string>
     <!--關於我們-->
-    <string name="about_1">KDC exchange國際數字加密資產交易平台是一個綜合數字資產交易平台,我們擁有領先的技術實力、優質的客戶服務和良好的用戶體驗,為廣大數字貨幣愛好者提供一個自由的網上交換的平台。 \n\n KDC exchange國際數字加密資產交易平台同時還提供數字貨幣白皮書規劃、加密算法調整、數字貨幣研發、交易平台上架一條龍的區塊鏈服務。 \n\n KDC exchange國際數字加密資產交易平台海外運營中心分別設立在新加坡、柬埔寨、馬紹爾。國內北京、正州、深圳三大辦事處；中國總部設立在海南陵水清水灣國際信息產業園。 \n</string>
-    <string name="about_2">當下數字資產發展如火如荼，良莠不齊。 KDC exchange會篩選優質數字資產，重視項目的透明度和治理結構，在自有評級體系形成的篩選標準之上，參考市場投資者的決策，共同發掘優質數字資產價值。 \n我們的理念是：與每一位自由匯集於此的成員共同塑造一方價值流通、合抱共耕的優質生態土壤。 \n</string>
-    <string name="about_3">KDC exchange的目標是建立一個相對去中心化的交易平台。平台的運營環境安全、公平而良性的發展，有創新、可迭代，符合社會進步和發展的趨勢。 </string>
+    <string name="about_1">Coin Dealer國際數字加密資產交易平台是一個綜合數字資產交易平台,我們擁有領先的技術實力、優質的客戶服務和良好的用戶體驗,為廣大數字貨幣愛好者提供一個自由的網上交換的平台。 \n\n Coin Dealer國際數字加密資產交易平台同時還提供數字貨幣白皮書規劃、加密算法調整、數字貨幣研發、交易平台上架一條龍的區塊鏈服務。 \n\n Coin Dealer國際數字加密資產交易平台海外運營中心分別設立在新加坡、柬埔寨、馬紹爾。國內北京、正州、深圳三大辦事處；中國總部設立在海南陵水清水灣國際信息產業園。 \n</string>
+    <string name="about_2">當下數字資產發展如火如荼，良莠不齊。 Coin Dealer會篩選優質數字資產，重視項目的透明度和治理結構，在自有評級體系形成的篩選標準之上，參考市場投資者的決策，共同發掘優質數字資產價值。 \n我們的理念是：與每一位自由匯集於此的成員共同塑造一方價值流通、合抱共耕的優質生態土壤。 \n</string>
+    <string name="about_3">Coin Dealer的目標是建立一個相對去中心化的交易平台。平台的運營環境安全、公平而良性的發展，有創新、可迭代，符合社會進步和發展的趨勢。 </string>
 
     <string-array name="home_two_top_tab">
         <item>自選</item>
@@ -941,7 +941,7 @@
     <!-- web-->
     <string name="help">幫助</string>
     <string name="details">詳情</string>
-    <string name="web_url">KDC exchange6.COM</string>
+    <string name="web_url">Coin Dealer6.COM</string>
     <string name="web_tv1">全球比特幣交易平台</string>
     <string name="web_tv2">全球數字資產交易平台</string>
     <string name="web_share">分享</string>
@@ -963,12 +963,12 @@
     <string name="up_app">\n哎呦！ APP升級啦！ \n建議您盡快升級最新版本，不升級將可能會影響您的使用體驗以及資金安全！ </string>
 
     <!--關於我們-->
-    <string name="about_title1">\n關於KDC exchange\n</string>
-    <string name="about_title2">\nKDC exchange理念\n</string>
-    <string name="about_title3">\nKDC exchange目標\n</string>
+    <string name="about_title1">\n關於Coin Dealer\n</string>
+    <string name="about_title2">\nCoin Dealer理念\n</string>
+    <string name="about_title3">\nCoin Dealer目標\n</string>
     <string name="about_title4">\n聯繫我們\n</string>
     <string name="about_email">郵箱：Serve@bishang366.com</string>
-    <string name="about_gang">KDC exchange官方社群</string>
+    <string name="about_gang">Coin Dealer官方社群</string>
 
     <!-- 身份認證-->
     <string name="up_you_picture">拍攝上傳您的身份證照片</string>

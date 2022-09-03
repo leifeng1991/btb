@@ -47,7 +47,7 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="10dp"
             android:gravity="center_horizontal"
-            android:text="KDC exchange"
+            android:text="Coin Dealer"
             android:textColor="@color/text_orange"
             android:textSize="16sp"
             android:visibility="visible" />

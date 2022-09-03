@@ -9,7 +9,7 @@
     <string name="Italian">Sag es auf russisch</string>
     <string name="Spanish">Spanisch. Danke</string>
 
-    <string name="app_name">KDC exchange</string>
+    <string name="app_name">Coin Dealer</string>
     <string name="cancle">stornieren</string>
     <string name="confirm">bestimmen</string>
     <string name="back">Rückkehr</string>
@@ -120,7 +120,7 @@
 
     <!--我的-->
     <string name="not_logged_in">Nicht eingeloggt</string>
-    <string name="welcome_to">Willkommen bei KDC exchange</string>
+    <string name="welcome_to">Willkommen bei Coin Dealer</string>
     <string name="my_order">Meine Bestellung</string>
     <string name="my_ads">Meine Anzeige</string>
     <string name="my_message">Plattformnachrichten</string>
@@ -491,8 +491,8 @@
     <string name="forgot_password">Passwort vergessen?</string>
     <string name="goto_regist">Jetzt registrieren</string>
     <string name="goto_login">Melden Sie sich sofort an</string>
-    <string name="no_zhanghao">Sie haben noch kein KDC exchange-Konto?</string>
-    <string name="yes_zhanghao">Haben Sie bereits ein KDC exchange-Konto</string>
+    <string name="no_zhanghao">Sie haben noch kein Coin Dealer-Konto?</string>
+    <string name="yes_zhanghao">Haben Sie bereits ein Coin Dealer-Konto</string>
 
     <!--注册-->
     <string name="email_sign_up">E-Mail Registrierung</string>
@@ -523,9 +523,9 @@
     <!--充币-->
     <string name="copy_success">In die Zwischenablage kopieren!</string>
     <!--关于我们-->
-    <string name="about_1">Die internationale Handelsplattform für digital verschlüsselte Vermögenswerte von KDC exchange ist eine umfassende Plattform für den Handel mit digitalen Vermögenswerten. Wir verfügen über führende technische Stärke, einen qualitativ hochwertigen Kundenservice und eine gute Benutzererfahrung und bieten eine kostenlose Online-Austauschplattform für die Mehrheit der Liebhaber digitaler Währungen. \n \n Die internationale Handelsplattform für digital verschlüsselte Vermögenswerte von KDC exchange bietet außerdem Blockchain-Services aus einer Hand für die Planung von Whitepaper für digitale Währungen, die Anpassung von Verschlüsselungsalgorithmen, die Erforschung und Entwicklung digitaler Währungen sowie den Start der Handelsplattform. \n \n Die Übersee-Betriebszentren der internationalen Handelsplattform für digital verschlüsselte Vermögenswerte von KDC exchange sind in Singapur, Kambodscha und Marshall eingerichtet. Es gibt drei inländische Büros in Peking, Zhengzhou und Shenzhen. Der chinesische Hauptsitz befindet sich im Hainan Lingshui Qingshuiwan International Information Industry Park. \n</string>
-    <string name="about_2">Die Entwicklung digitaler Assets ist in vollem Gange, mit einer Mischung aus Gut und Böse. KDC exchange wird hochwertige digitale Assets prüfen, auf die Transparenz und Governance-Struktur des Projekts achten, basierend auf den Auswahlkriterien, die durch sein eigenes Ratingsystem gebildet werden, und auf die Entscheidungen von Marktinvestoren verweisen, den Wert hochwertiger digitaler Assets gemeinsam zu untersuchen. \nUnsere Philosophie lautet: Mit jedem Mitglied, das sich hier frei versammelt, einen hochwertigen ökologischen Boden für die Wertzirkulation und den gemeinsamen Anbau zu schaffen. \n</string>
-    <string name="about_3">Ziel von KDC exchange ist es, eine relativ dezentrale Handelsplattform aufzubauen. Das Betriebsumfeld der Plattform entwickelt sich auf sichere, faire und solide Weise, innovativ und iterierbar und im Einklang mit dem Trend des sozialen Fortschritts und der Entwicklung.</string>
+    <string name="about_1">Die internationale Handelsplattform für digital verschlüsselte Vermögenswerte von Coin Dealer ist eine umfassende Plattform für den Handel mit digitalen Vermögenswerten. Wir verfügen über führende technische Stärke, einen qualitativ hochwertigen Kundenservice und eine gute Benutzererfahrung und bieten eine kostenlose Online-Austauschplattform für die Mehrheit der Liebhaber digitaler Währungen. \n \n Die internationale Handelsplattform für digital verschlüsselte Vermögenswerte von Coin Dealer bietet außerdem Blockchain-Services aus einer Hand für die Planung von Whitepaper für digitale Währungen, die Anpassung von Verschlüsselungsalgorithmen, die Erforschung und Entwicklung digitaler Währungen sowie den Start der Handelsplattform. \n \n Die Übersee-Betriebszentren der internationalen Handelsplattform für digital verschlüsselte Vermögenswerte von Coin Dealer sind in Singapur, Kambodscha und Marshall eingerichtet. Es gibt drei inländische Büros in Peking, Zhengzhou und Shenzhen. Der chinesische Hauptsitz befindet sich im Hainan Lingshui Qingshuiwan International Information Industry Park. \n</string>
+    <string name="about_2">Die Entwicklung digitaler Assets ist in vollem Gange, mit einer Mischung aus Gut und Böse. Coin Dealer wird hochwertige digitale Assets prüfen, auf die Transparenz und Governance-Struktur des Projekts achten, basierend auf den Auswahlkriterien, die durch sein eigenes Ratingsystem gebildet werden, und auf die Entscheidungen von Marktinvestoren verweisen, den Wert hochwertiger digitaler Assets gemeinsam zu untersuchen. \nUnsere Philosophie lautet: Mit jedem Mitglied, das sich hier frei versammelt, einen hochwertigen ökologischen Boden für die Wertzirkulation und den gemeinsamen Anbau zu schaffen. \n</string>
+    <string name="about_3">Ziel von Coin Dealer ist es, eine relativ dezentrale Handelsplattform aufzubauen. Das Betriebsumfeld der Plattform entwickelt sich auf sichere, faire und solide Weise, innovativ und iterierbar und im Einklang mit dem Trend des sozialen Fortschritts und der Entwicklung.</string>
 
     <string-array name="home_two_top_tab">
         <item>Optional</item>
@@ -942,7 +942,7 @@
     <!--    web-->
     <string name="help">Hilfe</string>
     <string name="details">Einzelheiten</string>
-    <string name="web_url">KDC exchange6.COM</string>
+    <string name="web_url">Coin Dealer6.COM</string>
     <string name="web_tv1">Globale Bitcoin-Handelsplattform</string>
     <string name="web_tv2">Globale Handelsplattform für digitale Vermögenswerte</string>
     <string name="web_share">teilt es</string>
@@ -964,12 +964,12 @@
     <string name="up_app">\nAuch! Die APP ist aktualisiert! \n Es wird empfohlen, so bald wie möglich auf die neueste Version zu aktualisieren. Wenn Sie nicht aktualisieren, kann dies Ihre Erfahrung und finanzielle Sicherheit beeinträchtigen!</string>
 
     <!--关于我们-->
-    <string name="about_title1">\nÜber KDC exchange \n</string>
-    <string name="about_title2">\nKDC exchange-Konzept \n</string>
-    <string name="about_title3">\nKDC exchange-Ziel \n</string>
+    <string name="about_title1">\nÜber Coin Dealer \n</string>
+    <string name="about_title2">\nCoin Dealer-Konzept \n</string>
+    <string name="about_title3">\nCoin Dealer-Ziel \n</string>
     <string name="about_title4">\nKontaktieren Sie uns \n</string>
     <string name="about_email">E-Mail: Serve@bishang366.com</string>
-    <string name="about_gang">KDC exchange offizielle Community</string>
+    <string name="about_gang">Coin Dealer offizielle Community</string>
 
     <!--    身份认证-->
     <string name="up_you_picture">Nehmen Sie Ihr ID-Foto auf und laden Sie es hoch</string>

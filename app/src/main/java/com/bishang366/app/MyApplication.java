@@ -93,7 +93,7 @@ public class MyApplication extends Application {
 
         PreferenceUtil.init(this);
         //根据上次的语言设置，重新设置语言
-        switchLanguage(PreferenceUtil.getString("language", "en"));
+        switchLanguage(PreferenceUtil.getString("language", "ch"));
 
     }
 

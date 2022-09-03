@@ -9,7 +9,7 @@
     <string name="Italian">イタリア語</string>
     <string name="Spanish">フランス語</string>
 
-    <string name="app_name">KDC exchange</string>
+    <string name="app_name">Coin Dealer</string>
     <string name="cancle">キャンセル</string>
     <string name="confirm">決定する</string>
     <string name="back">戻る</string>
@@ -120,7 +120,7 @@
 
     <!--我的-->
     <string name="not_logged_in">ログインしていない</string>
-    <string name="welcome_to">KDC exchangeへようこそ</string>
+    <string name="welcome_to">Coin Dealerへようこそ</string>
     <string name="my_order">私の注文</string>
     <string name="my_ads">私の広告</string>
     <string name="my_message">プラットフォームニュース</string>
@@ -491,8 +491,8 @@
     <string name="forgot_password">パスワードを忘れましたか？</string>
     <string name="goto_regist">今すぐサインアップ</string>
     <string name="goto_login">すぐにログインする</string>
-    <string name="no_zhanghao">KDC exchangeアカウントをお持ちではありませんか？</string>
-    <string name="yes_zhanghao">すでにKDC exchangeアカウントを持っています</string>
+    <string name="no_zhanghao">Coin Dealerアカウントをお持ちではありませんか？</string>
+    <string name="yes_zhanghao">すでにCoin Dealerアカウントを持っています</string>
 
     <!--注册-->
     <string name="email_sign_up">メール登録</string>
@@ -523,9 +523,9 @@
     <!--充币-->
     <string name="copy_success">クリップボードにコピー！</string>
     <!--关于我们-->
-    <string name="about_1">KDC exchange国際デジタル暗号化資産取引プラットフォームは、包括的なデジタル資産取引プラットフォームです。当社は、卓越した技術力、高品質の顧客サービス、優れたユーザーエクスペリエンスを備えており、デジタル通貨愛好家の大多数に無料のオンライン交換プラットフォームを提供しています。 \n\n KDC exchange国際デジタル暗号化資産取引プラットフォームは、デジタル通貨ホワイトペーパーの計画、暗号化アルゴリズムの調整、デジタル通貨の研究開発、および取引プラットフォームの立ち上げのためのワンストップブロックチェーンサービスも提供します。 \n\n KDC exchange国際デジタル暗号化資産取引プラットフォームの海外オペレーションセンターは、シンガポール、カンボジア、マーシャルに設立されています。北京、鄭州、深センに3つの国内事務所があり、中国本部は海南陵水青水湾国際情報産業公園に設置されています。 \n</string>
-    <string name="about_2">現在のデジタル資産の開発は本格化しており、良い面と悪い面が混在しています。 KDC exchangeは、高品質のデジタル資産を選別し、独自の評価システムによって形成された選択基準に基づいてプロジェクトの透明性とガバナンス構造に注意を払い、市場投資家の決定を参照して、高品質のデジタル資産の価値を共同で調査します。 \n私たちの哲学は、ここに自由に集まるすべてのメンバーと価値の循環と共生のための高品質の生態学的な土壌を作ることです。 \n</string>
-    <string name="about_3">KDC exchangeの目標は、比較的分散化された取引プラットフォームを確立することです。プラットフォームの運用環境は、安全で公正かつ健全な方法で、革新的で反復可能であり、社会の進歩と発展の傾向に沿って開発されています。</string>
+    <string name="about_1">Coin Dealer国際デジタル暗号化資産取引プラットフォームは、包括的なデジタル資産取引プラットフォームです。当社は、卓越した技術力、高品質の顧客サービス、優れたユーザーエクスペリエンスを備えており、デジタル通貨愛好家の大多数に無料のオンライン交換プラットフォームを提供しています。 \n\n Coin Dealer国際デジタル暗号化資産取引プラットフォームは、デジタル通貨ホワイトペーパーの計画、暗号化アルゴリズムの調整、デジタル通貨の研究開発、および取引プラットフォームの立ち上げのためのワンストップブロックチェーンサービスも提供します。 \n\n Coin Dealer国際デジタル暗号化資産取引プラットフォームの海外オペレーションセンターは、シンガポール、カンボジア、マーシャルに設立されています。北京、鄭州、深センに3つの国内事務所があり、中国本部は海南陵水青水湾国際情報産業公園に設置されています。 \n</string>
+    <string name="about_2">現在のデジタル資産の開発は本格化しており、良い面と悪い面が混在しています。 Coin Dealerは、高品質のデジタル資産を選別し、独自の評価システムによって形成された選択基準に基づいてプロジェクトの透明性とガバナンス構造に注意を払い、市場投資家の決定を参照して、高品質のデジタル資産の価値を共同で調査します。 \n私たちの哲学は、ここに自由に集まるすべてのメンバーと価値の循環と共生のための高品質の生態学的な土壌を作ることです。 \n</string>
+    <string name="about_3">Coin Dealerの目標は、比較的分散化された取引プラットフォームを確立することです。プラットフォームの運用環境は、安全で公正かつ健全な方法で、革新的で反復可能であり、社会の進歩と発展の傾向に沿って開発されています。</string>
 
     <string-array name="home_two_top_tab">
         <item>オプション</item>
@@ -942,7 +942,7 @@
 <!--    web-->
     <string name="help">助けて</string>
     <string name="details">詳細</string>
-    <string name="web_url">KDC exchange6.COM</string>
+    <string name="web_url">Coin Dealer6.COM</string>
     <string name="web_tv1">グローバルビットコイン取引プラットフォーム</string>
     <string name="web_tv2">グローバルデジタル資産取引プラットフォーム</string>
     <string name="web_share">共有する</string>
@@ -964,12 +964,12 @@
 <string name="up_app">\ n痛い！ APPがアップグレードされました！ \ nできるだけ早く最新バージョンにアップグレードすることをお勧めします。アップグレードに失敗すると、エクスペリエンスと財務上のセキュリティに影響を与える可能性があります。</string>
 
     <!--关于我们-->
-    <string name="about_title1">\ nKDC exchangeについて\ n</string>
-    <string name="about_title2">\ nKDC exchangeの概念\ n</string>
-    <string name="about_title3">\ nKDC exchangeターゲット\ n</string>
+    <string name="about_title1">\ nCoin Dealerについて\ n</string>
+    <string name="about_title2">\ nCoin Dealerの概念\ n</string>
+    <string name="about_title3">\ nCoin Dealerターゲット\ n</string>
     <string name="about_title4">\ nお問い合わせ\ n</string>
     <string name="about_email">メール：Serve@bishang366.com</string>
-    <string name="about_gang">KDC exchange公式コミュニティ</string>
+    <string name="about_gang">Coin Dealer公式コミュニティ</string>
 
 <!--    身份认证-->
     <string name="up_you_picture">ID写真を撮ってアップロードする</string>

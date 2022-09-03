@@ -204,7 +204,7 @@
                                 android:layout_marginLeft="5dp"
                                 android:layout_weight="1"
                                 android:gravity="center"
-                                android:orientation="vertical" android:visibility="gone" tools:visibility="visible">
+                                android:orientation="vertical" android:visibility="visible" tools:visibility="visible">
 
                             <ImageView
                                     android:layout_width="wrap_content"
@@ -413,7 +413,7 @@
                         android:background="@drawable/image_back_ctc_manage"
                         android:gravity="center"
                         android:orientation="horizontal"
-                        android:visibility="gone">
+                        android:visibility="visible">
 
                     <LinearLayout
                             android:layout_width="@dimen/dp10"
@@ -464,7 +464,7 @@
                         android:background="@drawable/image_back_five"
                         android:gravity="center_vertical"
                         android:orientation="vertical"
-                        android:visibility="gone">
+                        android:visibility="visible">
 
                     <LinearLayout
                             android:layout_width="match_parent"

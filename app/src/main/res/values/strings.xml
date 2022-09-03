@@ -10,7 +10,7 @@
     <string name="Italian">Italian</string>
     <string name="Spanish">Spanish</string>
 
-    <string name="app_name">KDC exchange</string>
+    <string name="app_name">Coin Dealer</string>
     <string name="cancle">Cancel</string>
     <string name="confirm">OK</string>
     <string name="back">Back</string>
@@ -119,7 +119,7 @@
 
     <!--我的-->
     <string name="not_logged_in">Not Login</string>
-    <string name="welcome_to">Welcome to KDC exchange</string>
+    <string name="welcome_to">Welcome to Coin Dealer</string>
     <string name="my_order">Orders</string>
     <string name="my_ads">Adertisers</string>
     <string name="my_message">Platform Message</string>
@@ -485,7 +485,7 @@
     <string name="forgot_password">Forget password？</string>
     <string name="goto_regist">Register now</string>
     <string name="goto_login">Log in now</string>
-    <string name="no_zhanghao">Don\'t have an Exchange account?</string>
+    <string name="no_zhanghao">Don\'t have an Coin Dealer account?</string>
     <string name="yes_zhanghao">Already have an Exchange account.</string>
 
     <!--注册-->
@@ -955,12 +955,12 @@ BTXEX international Digital encryption asset trading platform overseas operation
     <string name="up_app">\nOuch! App upgrade! N suggests that you upgrade the latest version as soon as possible. If not, it may affect your experience as well as your financial security!</string>
 
     <!--关于我们-->
-    <string name="about_title1">\nAbout KDC exchange\n</string>
-    <string name="about_title2">\nKDC exchange Idea\n</string>
-    <string name="about_title3">\nKDC exchange Value and Goals\n</string>
+    <string name="about_title1">\nAbout Coin Dealer\n</string>
+    <string name="about_title2">\nCoin Dealer Idea\n</string>
+    <string name="about_title3">\nCoin Dealer Value and Goals\n</string>
     <string name="about_title4">\nContract us\n</string>
     <string name="about_email">E-mail：service@bishang366.com</string>
-    <string name="about_gang"> The official community of KDC exchange</string>
+    <string name="about_gang"> The official community of Coin Dealer</string>
 
     <!--    身份认证-->
     <string name="up_you_picture">Take and upload your ID photo</string>
