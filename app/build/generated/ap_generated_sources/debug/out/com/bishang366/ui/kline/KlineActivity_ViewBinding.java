@@ -23,19 +23,19 @@ import java.lang.Override;
 public class KlineActivity_ViewBinding implements Unbinder {
   private KlineActivity target;
 
-  private View view2131297439;
+  private View view2131297440;
 
-  private View view2131296578;
+  private View view2131296579;
 
-  private View view2131297347;
+  private View view2131297348;
 
-  private View view2131297382;
+  private View view2131297383;
 
-  private View view2131297267;
+  private View view2131297268;
 
-  private View view2131296644;
+  private View view2131296645;
 
-  private View view2131297326;
+  private View view2131297327;
 
   @UiThread
   public KlineActivity_ViewBinding(KlineActivity target) {
@@ -59,7 +59,7 @@ public class KlineActivity_ViewBinding implements Unbinder {
     target.kRange = Utils.findRequiredViewAsType(source, R.id.kRange, "field 'kRange'", TextView.class);
     view = Utils.findRequiredView(source, R.id.tv_collect, "field 'mTvCollect' and method 'setListener'");
     target.mTvCollect = Utils.castView(view, R.id.tv_collect, "field 'mTvCollect'", TextView.class);
-    view2131297439 = view;
+    view2131297440 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -68,7 +68,7 @@ public class KlineActivity_ViewBinding implements Unbinder {
     });
     view = Utils.findRequiredView(source, R.id.ibBack, "field 'ibBack' and method 'setListener'");
     target.ibBack = Utils.castView(view, R.id.ibBack, "field 'ibBack'", ImageButton.class);
-    view2131296578 = view;
+    view2131296579 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -77,7 +77,7 @@ public class KlineActivity_ViewBinding implements Unbinder {
     });
     view = Utils.findRequiredView(source, R.id.tvMore, "field 'tvMore' and method 'setListener'");
     target.tvMore = Utils.castView(view, R.id.tvMore, "field 'tvMore'", TextView.class);
-    view2131297347 = view;
+    view2131297348 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -89,7 +89,7 @@ public class KlineActivity_ViewBinding implements Unbinder {
     target.llState = Utils.findRequiredViewAsType(source, R.id.llState, "field 'llState'", LinearLayout.class);
     view = Utils.findRequiredView(source, R.id.tvSell, "field 'tvSell' and method 'setListener'");
     target.tvSell = Utils.castView(view, R.id.tvSell, "field 'tvSell'", TextView.class);
-    view2131297382 = view;
+    view2131297383 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -98,7 +98,7 @@ public class KlineActivity_ViewBinding implements Unbinder {
     });
     view = Utils.findRequiredView(source, R.id.tvBuy, "field 'tvBuy' and method 'setListener'");
     target.tvBuy = Utils.castView(view, R.id.tvBuy, "field 'tvBuy'", TextView.class);
-    view2131297267 = view;
+    view2131297268 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -110,7 +110,7 @@ public class KlineActivity_ViewBinding implements Unbinder {
     target.scrollView = Utils.findRequiredViewAsType(source, R.id.scrollView, "field 'scrollView'", WonderfulScrollView.class);
     target.klineView = Utils.findRequiredViewAsType(source, R.id.kline_view, "field 'klineView'", KLineView.class);
     view = Utils.findRequiredView(source, R.id.ivFullScreen, "method 'setListener'");
-    view2131296644 = view;
+    view2131296645 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -118,7 +118,7 @@ public class KlineActivity_ViewBinding implements Unbinder {
       }
     });
     view = Utils.findRequiredView(source, R.id.tvIndex, "method 'setListener'");
-    view2131297326 = view;
+    view2131297327 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -161,19 +161,19 @@ public class KlineActivity_ViewBinding implements Unbinder {
     target.scrollView = null;
     target.klineView = null;
 
-    view2131297439.setOnClickListener(null);
-    view2131297439 = null;
-    view2131296578.setOnClickListener(null);
-    view2131296578 = null;
-    view2131297347.setOnClickListener(null);
-    view2131297347 = null;
-    view2131297382.setOnClickListener(null);
-    view2131297382 = null;
-    view2131297267.setOnClickListener(null);
-    view2131297267 = null;
-    view2131296644.setOnClickListener(null);
-    view2131296644 = null;
-    view2131297326.setOnClickListener(null);
-    view2131297326 = null;
+    view2131297440.setOnClickListener(null);
+    view2131297440 = null;
+    view2131296579.setOnClickListener(null);
+    view2131296579 = null;
+    view2131297348.setOnClickListener(null);
+    view2131297348 = null;
+    view2131297383.setOnClickListener(null);
+    view2131297383 = null;
+    view2131297268.setOnClickListener(null);
+    view2131297268 = null;
+    view2131296645.setOnClickListener(null);
+    view2131296645 = null;
+    view2131297327.setOnClickListener(null);
+    view2131297327 = null;
   }
 }

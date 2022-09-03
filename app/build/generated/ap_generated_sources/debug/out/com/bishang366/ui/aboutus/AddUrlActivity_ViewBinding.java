@@ -17,7 +17,7 @@ import java.lang.Override;
 public class AddUrlActivity_ViewBinding implements Unbinder {
   private AddUrlActivity target;
 
-  private View view2131296578;
+  private View view2131296579;
 
   @UiThread
   public AddUrlActivity_ViewBinding(AddUrlActivity target) {
@@ -33,7 +33,7 @@ public class AddUrlActivity_ViewBinding implements Unbinder {
     target.llTitle = Utils.findRequiredViewAsType(source, R.id.llTitle, "field 'llTitle'", LinearLayout.class);
     target.wb = Utils.findRequiredViewAsType(source, R.id.wb, "field 'wb'", WebView.class);
     view = Utils.findRequiredView(source, R.id.ibBack, "method 'onViewClicked'");
-    view2131296578 = view;
+    view2131296579 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -53,7 +53,7 @@ public class AddUrlActivity_ViewBinding implements Unbinder {
     target.llTitle = null;
     target.wb = null;
 
-    view2131296578.setOnClickListener(null);
-    view2131296578 = null;
+    view2131296579.setOnClickListener(null);
+    view2131296579 = null;
   }
 }

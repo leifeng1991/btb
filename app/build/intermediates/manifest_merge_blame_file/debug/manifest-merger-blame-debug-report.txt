@@ -54,7 +54,7 @@
 24-->D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:16:22-76
 25
 26    <application
-26-->D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:20:5-224:19
+26-->D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:20:5-225:19
 27        android:name="com.bishang366.app.MyApplication"
 27-->D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:21:9-56
 28        android:allowBackup="true"
@@ -415,148 +415,151 @@
 195        <activity android:name="com.bishang366.ui.entrust.TrustlistconstractdataActivity" />
 195-->D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:184:9-93
 195-->D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:184:19-90
-196        <activity android:name="com.bishang366.ui.entrust.TrustDetailActivity" />
-196-->D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:185:9-82
-196-->D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:185:19-79
-197        <activity android:name="com.bishang366.ui.myEntrust.MyEntrustActivity" />
+196        <activity android:name="com.bishang366.ui.entrust.TrustOptionListActivity" />
+196-->D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:185:9-86
+196-->D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:185:19-83
+197        <activity android:name="com.bishang366.ui.entrust.TrustDetailActivity" />
 197-->D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:186:9-82
 197-->D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:186:19-79
-198        <activity android:name="com.bishang366.ui.bind_account.BindAccountActivity" />
-198-->D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:187:9-87
-198-->D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:187:19-84
-199        <activity android:name="com.bishang366.ui.bind_account.BindAliActivity" />
-199-->D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:188:9-83
-199-->D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:188:19-80
-200        <activity android:name="com.bishang366.ui.bind_account.BindBankActivity" />
-200-->D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:189:9-84
-200-->D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:189:19-81
-201        <activity android:name="com.bishang366.ui.bind_account.BindWeiChatActivity" /> <!-- 新加的 -->
-201-->D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:190:9-87
-201-->D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:190:19-84
-202        <activity android:name="com.bishang366.ui.aboutus.AboutJianJieActivity" />
-202-->D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:191:9-83
-202-->D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:191:19-80
-203        <activity android:name="com.bishang366.ui.aboutus.AboutWeiXinActivity" />
-203-->D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:192:9-82
-203-->D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:192:19-79
-204        <activity android:name="com.bishang366.ui.wallet.ChongBiJLActivity" />
-204-->D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:193:9-79
-204-->D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:193:19-76
-205        <activity android:name="com.bishang366.ui.wallet.TiBiJLActivity" />
-205-->D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:194:9-76
-205-->D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:194:19-73
-206        <activity android:name="com.bishang366.ui.setting.GongGaoActivity" />
-206-->D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:195:9-78
-206-->D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:195:19-75
-207        <activity android:name="com.bishang366.ui.setting.HelpActivity" />
-207-->D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:196:9-75
-207-->D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:196:19-72
-208        <activity android:name="com.bishang366.ui.message_detail.MessageHelpActivity" />
-208-->D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:197:9-89
-208-->D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:197:19-86
-209        <activity android:name="com.bishang366.ui.setting.HelpXinShouActivity" />
-209-->D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:198:9-82
-209-->D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:198:19-79
-210        <activity android:name="com.bishang366.ui.setting.HelpChangjianActivity" />
-210-->D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:199:9-84
-210-->D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:199:19-81
-211        <activity android:name="com.bishang366.ui.setting.HelpJiaoyiActivity" />
-211-->D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:200:9-81
-211-->D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:200:19-78
-212        <activity android:name="com.bishang366.ui.setting.HelpBizhongActivity" />
-212-->D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:201:9-82
-212-->D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:201:19-79
-213        <activity android:name="com.bishang366.ui.setting.HelpHangqingActivity" />
-213-->D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:202:9-83
-213-->D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:202:19-80
-214        <activity android:name="com.bishang366.ui.setting.HelpTiaokuanActivity" />
+198        <activity android:name="com.bishang366.ui.myEntrust.MyEntrustActivity" />
+198-->D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:187:9-82
+198-->D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:187:19-79
+199        <activity android:name="com.bishang366.ui.bind_account.BindAccountActivity" />
+199-->D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:188:9-87
+199-->D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:188:19-84
+200        <activity android:name="com.bishang366.ui.bind_account.BindAliActivity" />
+200-->D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:189:9-83
+200-->D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:189:19-80
+201        <activity android:name="com.bishang366.ui.bind_account.BindBankActivity" />
+201-->D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:190:9-84
+201-->D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:190:19-81
+202        <activity android:name="com.bishang366.ui.bind_account.BindWeiChatActivity" /> <!-- 新加的 -->
+202-->D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:191:9-87
+202-->D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:191:19-84
+203        <activity android:name="com.bishang366.ui.aboutus.AboutJianJieActivity" />
+203-->D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:192:9-83
+203-->D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:192:19-80
+204        <activity android:name="com.bishang366.ui.aboutus.AboutWeiXinActivity" />
+204-->D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:193:9-82
+204-->D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:193:19-79
+205        <activity android:name="com.bishang366.ui.wallet.ChongBiJLActivity" />
+205-->D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:194:9-79
+205-->D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:194:19-76
+206        <activity android:name="com.bishang366.ui.wallet.TiBiJLActivity" />
+206-->D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:195:9-76
+206-->D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:195:19-73
+207        <activity android:name="com.bishang366.ui.setting.GongGaoActivity" />
+207-->D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:196:9-78
+207-->D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:196:19-75
+208        <activity android:name="com.bishang366.ui.setting.HelpActivity" />
+208-->D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:197:9-75
+208-->D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:197:19-72
+209        <activity android:name="com.bishang366.ui.message_detail.MessageHelpActivity" />
+209-->D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:198:9-89
+209-->D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:198:19-86
+210        <activity android:name="com.bishang366.ui.setting.HelpXinShouActivity" />
+210-->D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:199:9-82
+210-->D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:199:19-79
+211        <activity android:name="com.bishang366.ui.setting.HelpChangjianActivity" />
+211-->D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:200:9-84
+211-->D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:200:19-81
+212        <activity android:name="com.bishang366.ui.setting.HelpJiaoyiActivity" />
+212-->D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:201:9-81
+212-->D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:201:19-78
+213        <activity android:name="com.bishang366.ui.setting.HelpBizhongActivity" />
+213-->D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:202:9-82
+213-->D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:202:19-79
+214        <activity android:name="com.bishang366.ui.setting.HelpHangqingActivity" />
 214-->D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:203:9-83
 214-->D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:203:19-80
-215        <activity android:name="com.bishang366.ui.setting.HelpQitaActivity" />
-215-->D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:204:9-79
-215-->D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:204:19-76
-216        <activity android:name="com.bishang366.ui.credit.CreditInfoActivity" />
-216-->D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:205:9-80
-216-->D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:205:19-77
-217        <activity android:name="com.bishang366.ui.seller.SellerApplyActivity" />
-217-->D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:206:9-81
-217-->D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:206:19-78
-218        <activity android:name="com.bishang366.ui.seller.SellerApplyCommitActivity" />
-218-->D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:207:9-87
-218-->D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:207:19-84
-219        <activity android:name="com.bishang366.ui.aboutus.AddUrlActivity" />
-219-->D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:208:9-77
-219-->D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:208:19-74
-220        <activity
-220-->D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:209:9-211:47
-221            android:name="com.bishang366.ui.wallet.OverturnActivity"
-221-->D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:210:13-69
-222            android:launchMode="singleTask" />
-222-->D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:211:13-44
-223        <activity android:name="com.bishang366.ui.setting.LanguageActivity" />
-223-->D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:212:9-79
-223-->D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:212:19-76
-224        <activity android:name="com.bishang366.ui.wallet.SeleteOptionCoinActivity" />
-224-->D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:214:9-95
-224-->D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:214:19-83
-225
-226        <service android:name="com.bishang366.serivce.MyService" />
-226-->D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:215:9-68
-226-->D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:215:18-65
-227        <service android:name="com.bishang366.serivce.MyTextService" />
-227-->D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:216:9-72
-227-->D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:216:18-69
-228        <service android:name="com.bishang366.serivce.MyTextService_contract" />
-228-->D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:217:9-81
-228-->D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:217:18-78
-229
-230        <receiver android:name="com.maiml.updatelibrary.receiver.InstallReceiver" >
-230-->D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:219:9-223:20
-230-->D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:219:19-82
-231            <intent-filter android:priority="20" >
-231-->D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:220:13-222:29
-231-->D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:220:28-49
-232                <action android:name="android.intent.action.DOWNLOAD_COMPLETE" />
-232-->D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:221:17-82
-232-->D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:221:25-79
-233            </intent-filter>
-234        </receiver>
-235
-236        <activity
-236-->[:lib-zxing] D:\Android\wai_bao\1111\333\lib-zxing\build\intermediates\library_manifest\debug\AndroidManifest.xml:10:9-15:63
-237            android:name="com.uuzuche.lib_zxing.activity.CaptureActivity"
-237-->[:lib-zxing] D:\Android\wai_bao\1111\333\lib-zxing\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:13-74
-238            android:configChanges="orientation|keyboardHidden"
-238-->[:lib-zxing] D:\Android\wai_bao\1111\333\lib-zxing\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:13-63
-239            android:screenOrientation="portrait"
-239-->[:lib-zxing] D:\Android\wai_bao\1111\333\lib-zxing\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-49
-240            android:theme="@style/Theme.AppCompat.NoActionBar"
-240-->[:lib-zxing] D:\Android\wai_bao\1111\333\lib-zxing\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:13-63
-241            android:windowSoftInputMode="stateAlwaysHidden" />
-241-->[:lib-zxing] D:\Android\wai_bao\1111\333\lib-zxing\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:13-60
-242        <activity
-242-->[com.yanzhenjie:permission:1.1.0] C:\Users\15036\.gradle\caches\transforms-2\files-2.1\ec42b6e713d5b1b611b8d70832c84253\permission-1.1.0\AndroidManifest.xml:25:9-30:75
-243            android:name="com.yanzhenjie.permission.PermissionActivity"
-243-->[com.yanzhenjie:permission:1.1.0] C:\Users\15036\.gradle\caches\transforms-2\files-2.1\ec42b6e713d5b1b611b8d70832c84253\permission-1.1.0\AndroidManifest.xml:26:13-72
-244            android:configChanges="keyboardHidden|orientation|screenSize"
-244-->[com.yanzhenjie:permission:1.1.0] C:\Users\15036\.gradle\caches\transforms-2\files-2.1\ec42b6e713d5b1b611b8d70832c84253\permission-1.1.0\AndroidManifest.xml:27:13-74
-245            android:launchMode="standard"
-245-->[com.yanzhenjie:permission:1.1.0] C:\Users\15036\.gradle\caches\transforms-2\files-2.1\ec42b6e713d5b1b611b8d70832c84253\permission-1.1.0\AndroidManifest.xml:28:13-42
-246            android:theme="@style/permission_PermissionActivity"
-246-->[com.yanzhenjie:permission:1.1.0] C:\Users\15036\.gradle\caches\transforms-2\files-2.1\ec42b6e713d5b1b611b8d70832c84253\permission-1.1.0\AndroidManifest.xml:29:13-65
-247            android:windowSoftInputMode="stateHidden|stateAlwaysHidden" />
-247-->[com.yanzhenjie:permission:1.1.0] C:\Users\15036\.gradle\caches\transforms-2\files-2.1\ec42b6e713d5b1b611b8d70832c84253\permission-1.1.0\AndroidManifest.xml:30:13-72
-248        <activity
-248-->[:captchasdk-release-1.0.2:] C:\Users\15036\.gradle\caches\transforms-2\files-2.1\a60be39c0bbc935487b71aac6c2d5aa5\captchasdk-release-1.0.2\AndroidManifest.xml:16:9-21:20
-249            android:name="com.tencent.captchasdk.TCaptchaPopupActivity"
-249-->[:captchasdk-release-1.0.2:] C:\Users\15036\.gradle\caches\transforms-2\files-2.1\a60be39c0bbc935487b71aac6c2d5aa5\captchasdk-release-1.0.2\AndroidManifest.xml:17:13-72
-250            android:configChanges="orientation|keyboardHidden|navigation"
-250-->[:captchasdk-release-1.0.2:] C:\Users\15036\.gradle\caches\transforms-2\files-2.1\a60be39c0bbc935487b71aac6c2d5aa5\captchasdk-release-1.0.2\AndroidManifest.xml:18:13-74
-251            android:exported="false"
-251-->[:captchasdk-release-1.0.2:] C:\Users\15036\.gradle\caches\transforms-2\files-2.1\a60be39c0bbc935487b71aac6c2d5aa5\captchasdk-release-1.0.2\AndroidManifest.xml:19:13-37
-252            android:theme="@style/TCaptchaPopupDialogActivity" >
-252-->[:captchasdk-release-1.0.2:] C:\Users\15036\.gradle\caches\transforms-2\files-2.1\a60be39c0bbc935487b71aac6c2d5aa5\captchasdk-release-1.0.2\AndroidManifest.xml:20:13-63
-253        </activity>
-254    </application>
-255
-256</manifest>
+215        <activity android:name="com.bishang366.ui.setting.HelpTiaokuanActivity" />
+215-->D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:204:9-83
+215-->D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:204:19-80
+216        <activity android:name="com.bishang366.ui.setting.HelpQitaActivity" />
+216-->D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:205:9-79
+216-->D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:205:19-76
+217        <activity android:name="com.bishang366.ui.credit.CreditInfoActivity" />
+217-->D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:206:9-80
+217-->D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:206:19-77
+218        <activity android:name="com.bishang366.ui.seller.SellerApplyActivity" />
+218-->D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:207:9-81
+218-->D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:207:19-78
+219        <activity android:name="com.bishang366.ui.seller.SellerApplyCommitActivity" />
+219-->D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:208:9-87
+219-->D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:208:19-84
+220        <activity android:name="com.bishang366.ui.aboutus.AddUrlActivity" />
+220-->D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:209:9-77
+220-->D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:209:19-74
+221        <activity
+221-->D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:210:9-212:47
+222            android:name="com.bishang366.ui.wallet.OverturnActivity"
+222-->D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:211:13-69
+223            android:launchMode="singleTask" />
+223-->D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:212:13-44
+224        <activity android:name="com.bishang366.ui.setting.LanguageActivity" />
+224-->D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:213:9-79
+224-->D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:213:19-76
+225        <activity android:name="com.bishang366.ui.wallet.SeleteOptionCoinActivity" />
+225-->D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:215:9-95
+225-->D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:215:19-83
+226
+227        <service android:name="com.bishang366.serivce.MyService" />
+227-->D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:216:9-68
+227-->D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:216:18-65
+228        <service android:name="com.bishang366.serivce.MyTextService" />
+228-->D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:217:9-72
+228-->D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:217:18-69
+229        <service android:name="com.bishang366.serivce.MyTextService_contract" />
+229-->D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:218:9-81
+229-->D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:218:18-78
+230
+231        <receiver android:name="com.maiml.updatelibrary.receiver.InstallReceiver" >
+231-->D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:220:9-224:20
+231-->D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:220:19-82
+232            <intent-filter android:priority="20" >
+232-->D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:221:13-223:29
+232-->D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:221:28-49
+233                <action android:name="android.intent.action.DOWNLOAD_COMPLETE" />
+233-->D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:222:17-82
+233-->D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:222:25-79
+234            </intent-filter>
+235        </receiver>
+236
+237        <activity
+237-->[:lib-zxing] D:\Android\wai_bao\1111\333\lib-zxing\build\intermediates\library_manifest\debug\AndroidManifest.xml:10:9-15:63
+238            android:name="com.uuzuche.lib_zxing.activity.CaptureActivity"
+238-->[:lib-zxing] D:\Android\wai_bao\1111\333\lib-zxing\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:13-74
+239            android:configChanges="orientation|keyboardHidden"
+239-->[:lib-zxing] D:\Android\wai_bao\1111\333\lib-zxing\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:13-63
+240            android:screenOrientation="portrait"
+240-->[:lib-zxing] D:\Android\wai_bao\1111\333\lib-zxing\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-49
+241            android:theme="@style/Theme.AppCompat.NoActionBar"
+241-->[:lib-zxing] D:\Android\wai_bao\1111\333\lib-zxing\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:13-63
+242            android:windowSoftInputMode="stateAlwaysHidden" />
+242-->[:lib-zxing] D:\Android\wai_bao\1111\333\lib-zxing\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:13-60
+243        <activity
+243-->[com.yanzhenjie:permission:1.1.0] C:\Users\15036\.gradle\caches\transforms-2\files-2.1\ec42b6e713d5b1b611b8d70832c84253\permission-1.1.0\AndroidManifest.xml:25:9-30:75
+244            android:name="com.yanzhenjie.permission.PermissionActivity"
+244-->[com.yanzhenjie:permission:1.1.0] C:\Users\15036\.gradle\caches\transforms-2\files-2.1\ec42b6e713d5b1b611b8d70832c84253\permission-1.1.0\AndroidManifest.xml:26:13-72
+245            android:configChanges="keyboardHidden|orientation|screenSize"
+245-->[com.yanzhenjie:permission:1.1.0] C:\Users\15036\.gradle\caches\transforms-2\files-2.1\ec42b6e713d5b1b611b8d70832c84253\permission-1.1.0\AndroidManifest.xml:27:13-74
+246            android:launchMode="standard"
+246-->[com.yanzhenjie:permission:1.1.0] C:\Users\15036\.gradle\caches\transforms-2\files-2.1\ec42b6e713d5b1b611b8d70832c84253\permission-1.1.0\AndroidManifest.xml:28:13-42
+247            android:theme="@style/permission_PermissionActivity"
+247-->[com.yanzhenjie:permission:1.1.0] C:\Users\15036\.gradle\caches\transforms-2\files-2.1\ec42b6e713d5b1b611b8d70832c84253\permission-1.1.0\AndroidManifest.xml:29:13-65
+248            android:windowSoftInputMode="stateHidden|stateAlwaysHidden" />
+248-->[com.yanzhenjie:permission:1.1.0] C:\Users\15036\.gradle\caches\transforms-2\files-2.1\ec42b6e713d5b1b611b8d70832c84253\permission-1.1.0\AndroidManifest.xml:30:13-72
+249        <activity
+249-->[:captchasdk-release-1.0.2:] C:\Users\15036\.gradle\caches\transforms-2\files-2.1\a60be39c0bbc935487b71aac6c2d5aa5\captchasdk-release-1.0.2\AndroidManifest.xml:16:9-21:20
+250            android:name="com.tencent.captchasdk.TCaptchaPopupActivity"
+250-->[:captchasdk-release-1.0.2:] C:\Users\15036\.gradle\caches\transforms-2\files-2.1\a60be39c0bbc935487b71aac6c2d5aa5\captchasdk-release-1.0.2\AndroidManifest.xml:17:13-72
+251            android:configChanges="orientation|keyboardHidden|navigation"
+251-->[:captchasdk-release-1.0.2:] C:\Users\15036\.gradle\caches\transforms-2\files-2.1\a60be39c0bbc935487b71aac6c2d5aa5\captchasdk-release-1.0.2\AndroidManifest.xml:18:13-74
+252            android:exported="false"
+252-->[:captchasdk-release-1.0.2:] C:\Users\15036\.gradle\caches\transforms-2\files-2.1\a60be39c0bbc935487b71aac6c2d5aa5\captchasdk-release-1.0.2\AndroidManifest.xml:19:13-37
+253            android:theme="@style/TCaptchaPopupDialogActivity" >
+253-->[:captchasdk-release-1.0.2:] C:\Users\15036\.gradle\caches\transforms-2\files-2.1\a60be39c0bbc935487b71aac6c2d5aa5\captchasdk-release-1.0.2\AndroidManifest.xml:20:13-63
+254        </activity>
+255    </application>
+256
+257</manifest>

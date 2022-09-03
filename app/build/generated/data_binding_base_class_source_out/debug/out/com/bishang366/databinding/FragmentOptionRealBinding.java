@@ -39,6 +39,9 @@ public final class FragmentOptionRealBinding implements ViewBinding {
   public final TextView buInventory;
 
   @NonNull
+  public final TextView buPosition;
+
+  @NonNull
   public final Button buRise;
 
   @NonNull
@@ -214,15 +217,15 @@ public final class FragmentOptionRealBinding implements ViewBinding {
 
   private FragmentOptionRealBinding(@NonNull RelativeLayout rootView,
       @NonNull RelativeLayout bottom, @NonNull TextView btnToLogin, @NonNull Button buFall,
-      @NonNull TextView buInventory, @NonNull Button buRise, @NonNull View currentTrustUnderline,
-      @NonNull View dealTrustUnderline, @NonNull View historyTrustUnderline,
-      @NonNull ImageButton ibBack, @NonNull ImageView ibMessage, @NonNull ImageButton ibOpen,
-      @NonNull TextView ibRegist, @NonNull TextView installments, @NonNull KLineView klineView,
-      @NonNull LinearLayout llCurrent, @NonNull LinearLayout llCurrent0,
-      @NonNull LinearLayout llCurrentTrust, @NonNull LinearLayout llDeal,
-      @NonNull LinearLayout llDealTrust, @NonNull LinearLayout llHistory,
-      @NonNull LinearLayout llHistoryTrust, @NonNull LinearLayout llK,
-      @NonNull LinearLayout llOneCurrent, @NonNull RelativeLayout llRoot,
+      @NonNull TextView buInventory, @NonNull TextView buPosition, @NonNull Button buRise,
+      @NonNull View currentTrustUnderline, @NonNull View dealTrustUnderline,
+      @NonNull View historyTrustUnderline, @NonNull ImageButton ibBack,
+      @NonNull ImageView ibMessage, @NonNull ImageButton ibOpen, @NonNull TextView ibRegist,
+      @NonNull TextView installments, @NonNull KLineView klineView, @NonNull LinearLayout llCurrent,
+      @NonNull LinearLayout llCurrent0, @NonNull LinearLayout llCurrentTrust,
+      @NonNull LinearLayout llDeal, @NonNull LinearLayout llDealTrust,
+      @NonNull LinearLayout llHistory, @NonNull LinearLayout llHistoryTrust,
+      @NonNull LinearLayout llK, @NonNull LinearLayout llOneCurrent, @NonNull RelativeLayout llRoot,
       @NonNull LinearLayout llTitle, @NonNull TextView mTvseven, @NonNull TextView nowFive,
       @NonNull TextView nowFour, @NonNull TextView nowOne, @NonNull TextView nowSix,
       @NonNull TextView nowThree, @NonNull TextView nowTwo,
@@ -242,6 +245,7 @@ public final class FragmentOptionRealBinding implements ViewBinding {
     this.btnToLogin = btnToLogin;
     this.buFall = buFall;
     this.buInventory = buInventory;
+    this.buPosition = buPosition;
     this.buRise = buRise;
     this.currentTrustUnderline = currentTrustUnderline;
     this.dealTrustUnderline = dealTrustUnderline;
@@ -347,6 +351,11 @@ public final class FragmentOptionRealBinding implements ViewBinding {
       TextView buInventory = rootView.findViewById(R.id.bu_inventory);
       if (buInventory == null) {
         missingId = "buInventory";
+        break missingId;
+      }
+      TextView buPosition = rootView.findViewById(R.id.bu_position);
+      if (buPosition == null) {
+        missingId = "buPosition";
         break missingId;
       }
       Button buRise = rootView.findViewById(R.id.bu_rise);
@@ -640,14 +649,14 @@ public final class FragmentOptionRealBinding implements ViewBinding {
         break missingId;
       }
       return new FragmentOptionRealBinding((RelativeLayout) rootView, bottom, btnToLogin, buFall,
-          buInventory, buRise, currentTrustUnderline, dealTrustUnderline, historyTrustUnderline,
-          ibBack, ibMessage, ibOpen, ibRegist, installments, klineView, llCurrent, llCurrent0,
-          llCurrentTrust, llDeal, llDealTrust, llHistory, llHistoryTrust, llK, llOneCurrent, llRoot,
-          llTitle, mTvseven, nowFive, nowFour, nowOne, nowSix, nowThree, nowTwo, refreshCurrent,
-          rvAmount, rvCurrent, rvHistory, seekbar, smartrefreshLayout, tabTime, textToAll, tvAmount,
-          tvAmount2, tvBuy, tvBuy2, tvCompensation, tvCurrentTrust, tvDealTrust, tvExpect,
-          tvExpect2, tvHistoryTrust, tvNowPrice, tvOpenPrice, tvPercent, tvSell, tvSell2, tvTime,
-          tvTime2, tvTimeCurrent, tvTitle, tvUseMoney, viewBack, viewLine);
+          buInventory, buPosition, buRise, currentTrustUnderline, dealTrustUnderline,
+          historyTrustUnderline, ibBack, ibMessage, ibOpen, ibRegist, installments, klineView,
+          llCurrent, llCurrent0, llCurrentTrust, llDeal, llDealTrust, llHistory, llHistoryTrust,
+          llK, llOneCurrent, llRoot, llTitle, mTvseven, nowFive, nowFour, nowOne, nowSix, nowThree,
+          nowTwo, refreshCurrent, rvAmount, rvCurrent, rvHistory, seekbar, smartrefreshLayout,
+          tabTime, textToAll, tvAmount, tvAmount2, tvBuy, tvBuy2, tvCompensation, tvCurrentTrust,
+          tvDealTrust, tvExpect, tvExpect2, tvHistoryTrust, tvNowPrice, tvOpenPrice, tvPercent,
+          tvSell, tvSell2, tvTime, tvTime2, tvTimeCurrent, tvTitle, tvUseMoney, viewBack, viewLine);
     }
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));
   }

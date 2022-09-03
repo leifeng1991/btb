@@ -20,19 +20,19 @@ import java.lang.Override;
 public class OverturnActivity_ViewBinding implements Unbinder {
   private OverturnActivity target;
 
-  private View view2131296578;
+  private View view2131296579;
 
-  private View view2131296848;
+  private View view2131296849;
 
-  private View view2131297423;
+  private View view2131297424;
 
-  private View view2131297024;
-
-  private View view2131297016;
+  private View view2131297025;
 
   private View view2131297017;
 
-  private View view2131297362;
+  private View view2131297018;
+
+  private View view2131297363;
 
   @UiThread
   public OverturnActivity_ViewBinding(OverturnActivity target) {
@@ -46,7 +46,7 @@ public class OverturnActivity_ViewBinding implements Unbinder {
     View view;
     view = Utils.findRequiredView(source, R.id.ibBack, "field 'ibBack' and method 'onViewClicked'");
     target.ibBack = Utils.castView(view, R.id.ibBack, "field 'ibBack'", ImageButton.class);
-    view2131296578 = view;
+    view2131296579 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -61,7 +61,7 @@ public class OverturnActivity_ViewBinding implements Unbinder {
     target.viewLine = Utils.findRequiredView(source, R.id.view_line, "field 'viewLine'");
     view = Utils.findRequiredView(source, R.id.ll_switch, "field 'llSwitch' and method 'onViewClicked'");
     target.llSwitch = Utils.castView(view, R.id.ll_switch, "field 'llSwitch'", LinearLayout.class);
-    view2131296848 = view;
+    view2131296849 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -72,7 +72,7 @@ public class OverturnActivity_ViewBinding implements Unbinder {
     target.ivArrow = Utils.findRequiredViewAsType(source, R.id.iv_arrow, "field 'ivArrow'", ImageView.class);
     view = Utils.findRequiredView(source, R.id.tv_all, "field 'tvAll' and method 'onViewClicked'");
     target.tvAll = Utils.castView(view, R.id.tv_all, "field 'tvAll'", TextView.class);
-    view2131297423 = view;
+    view2131297424 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -89,7 +89,7 @@ public class OverturnActivity_ViewBinding implements Unbinder {
     target.ivBottom = Utils.findRequiredViewAsType(source, R.id.iv_bottom, "field 'ivBottom'", ImageView.class);
     view = Utils.findRequiredView(source, R.id.rl_top, "field 'rlTop' and method 'onViewClicked'");
     target.rlTop = Utils.castView(view, R.id.rl_top, "field 'rlTop'", RelativeLayout.class);
-    view2131297024 = view;
+    view2131297025 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -98,7 +98,7 @@ public class OverturnActivity_ViewBinding implements Unbinder {
     });
     view = Utils.findRequiredView(source, R.id.rl_boottom, "field 'rlBoottom' and method 'onViewClicked'");
     target.rlBoottom = Utils.castView(view, R.id.rl_boottom, "field 'rlBoottom'", RelativeLayout.class);
-    view2131297016 = view;
+    view2131297017 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -107,7 +107,7 @@ public class OverturnActivity_ViewBinding implements Unbinder {
     });
     view = Utils.findRequiredView(source, R.id.rl_coin, "field 'rlCoin' and method 'onViewClicked'");
     target.rlCoin = Utils.castView(view, R.id.rl_coin, "field 'rlCoin'", RelativeLayout.class);
-    view2131297017 = view;
+    view2131297018 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -116,7 +116,7 @@ public class OverturnActivity_ViewBinding implements Unbinder {
     });
     target.tvCoinAccount = Utils.findRequiredViewAsType(source, R.id.tv_coin_account, "field 'tvCoinAccount'", TextView.class);
     view = Utils.findRequiredView(source, R.id.tvOverturn, "method 'onViewClicked'");
-    view2131297362 = view;
+    view2131297363 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -156,19 +156,19 @@ public class OverturnActivity_ViewBinding implements Unbinder {
     target.rlCoin = null;
     target.tvCoinAccount = null;
 
-    view2131296578.setOnClickListener(null);
-    view2131296578 = null;
-    view2131296848.setOnClickListener(null);
-    view2131296848 = null;
-    view2131297423.setOnClickListener(null);
-    view2131297423 = null;
-    view2131297024.setOnClickListener(null);
-    view2131297024 = null;
-    view2131297016.setOnClickListener(null);
-    view2131297016 = null;
+    view2131296579.setOnClickListener(null);
+    view2131296579 = null;
+    view2131296849.setOnClickListener(null);
+    view2131296849 = null;
+    view2131297424.setOnClickListener(null);
+    view2131297424 = null;
+    view2131297025.setOnClickListener(null);
+    view2131297025 = null;
     view2131297017.setOnClickListener(null);
     view2131297017 = null;
-    view2131297362.setOnClickListener(null);
-    view2131297362 = null;
+    view2131297018.setOnClickListener(null);
+    view2131297018 = null;
+    view2131297363.setOnClickListener(null);
+    view2131297363 = null;
   }
 }

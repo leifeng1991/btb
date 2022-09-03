@@ -81,6 +81,7 @@ public class OptionRealFragment_ViewBinding implements Unbinder {
     target.llOneCurrent = Utils.findRequiredViewAsType(source, R.id.ll_one_current, "field 'llOneCurrent'", LinearLayout.class);
     target.tvTimeCurrent = Utils.findRequiredViewAsType(source, R.id.tv_time_current, "field 'tvTimeCurrent'", TextView.class);
     target.tvCompensation = Utils.findRequiredViewAsType(source, R.id.tv_compensation, "field 'tvCompensation'", TextView.class);
+    target.bu_position = Utils.findRequiredViewAsType(source, R.id.bu_position, "field 'bu_position'", TextView.class);
 
     Context context = source.getContext();
     Resources res = context.getResources();
@@ -146,5 +147,6 @@ public class OptionRealFragment_ViewBinding implements Unbinder {
     target.llOneCurrent = null;
     target.tvTimeCurrent = null;
     target.tvCompensation = null;
+    target.bu_position = null;
   }
 }

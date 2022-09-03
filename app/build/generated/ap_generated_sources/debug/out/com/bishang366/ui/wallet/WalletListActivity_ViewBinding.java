@@ -17,7 +17,7 @@ import java.lang.Override;
 public class WalletListActivity_ViewBinding implements Unbinder {
   private WalletListActivity target;
 
-  private View view2131296578;
+  private View view2131296579;
 
   @UiThread
   public WalletListActivity_ViewBinding(WalletListActivity target) {
@@ -31,7 +31,7 @@ public class WalletListActivity_ViewBinding implements Unbinder {
     View view;
     view = Utils.findRequiredView(source, R.id.ibBack, "field 'ibBack', method 'onViewClicked', and method 'onViewClicked'");
     target.ibBack = Utils.castView(view, R.id.ibBack, "field 'ibBack'", ImageButton.class);
-    view2131296578 = view;
+    view2131296579 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -56,7 +56,7 @@ public class WalletListActivity_ViewBinding implements Unbinder {
     target.llTitle = null;
     target.rvCurrency = null;
 
-    view2131296578.setOnClickListener(null);
-    view2131296578 = null;
+    view2131296579.setOnClickListener(null);
+    view2131296579 = null;
   }
 }

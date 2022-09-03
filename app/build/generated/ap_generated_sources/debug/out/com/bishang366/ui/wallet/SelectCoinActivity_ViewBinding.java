@@ -16,7 +16,7 @@ import java.lang.Override;
 public class SelectCoinActivity_ViewBinding implements Unbinder {
   private SelectCoinActivity target;
 
-  private View view2131296578;
+  private View view2131296579;
 
   @UiThread
   public SelectCoinActivity_ViewBinding(SelectCoinActivity target) {
@@ -31,7 +31,7 @@ public class SelectCoinActivity_ViewBinding implements Unbinder {
     target.llTitle = Utils.findRequiredViewAsType(source, R.id.llTitle, "field 'llTitle'", LinearLayout.class);
     target.rvCoins = Utils.findRequiredViewAsType(source, R.id.rv_coins, "field 'rvCoins'", RecyclerView.class);
     view = Utils.findRequiredView(source, R.id.ibBack, "method 'onViewClicked'");
-    view2131296578 = view;
+    view2131296579 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -50,7 +50,7 @@ public class SelectCoinActivity_ViewBinding implements Unbinder {
     target.llTitle = null;
     target.rvCoins = null;
 
-    view2131296578.setOnClickListener(null);
-    view2131296578 = null;
+    view2131296579.setOnClickListener(null);
+    view2131296579 = null;
   }
 }

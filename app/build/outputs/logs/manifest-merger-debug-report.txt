@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:2:1-226:12
-INJECTED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:2:1-226:12
-INJECTED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:2:1-226:12
-INJECTED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:2:1-226:12
+ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:2:1-227:12
+INJECTED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:2:1-227:12
+INJECTED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:2:1-227:12
+INJECTED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:2:1-227:12
 MERGED from [:lib-zxing] D:\Android\wai_bao\1111\333\lib-zxing\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-18:12
 MERGED from [:MPChartLib] D:\Android\wai_bao\1111\333\MPChartLib\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-18:12
 MERGED from [com.android.support:design:28.0.0] C:\Users\15036\.gradle\caches\transforms-2\files-2.1\b3ab882a6a42abc14a3c0cd8a1326c03\design-28.0.0\AndroidManifest.xml:17:1-24:12
@@ -66,20 +66,20 @@ MERGED from [android.arch.core:runtime:1.1.1] C:\Users\15036\.gradle\caches\tran
 MERGED from [com.yanzhenjie:loading:1.0.2] C:\Users\15036\.gradle\caches\transforms-2\files-2.1\1b2430f6d0b0cde04d52fec737971b49\loading-1.0.2\AndroidManifest.xml:17:1-25:12
 MERGED from [com.contrarywind:wheelview:4.0.6] C:\Users\15036\.gradle\caches\transforms-2\files-2.1\2bc1b8c5fd0ecc28d9fd83daa6c5ce52\wheelview-4.0.6\AndroidManifest.xml:2:1-17:12
 MERGED from [com.scwang.smart:refresh-drawable-paint:2.0.1] C:\Users\15036\.gradle\caches\transforms-2\files-2.1\04b236b15657a088a84bd8f815281ea1\refresh-drawable-paint-2.0.1\AndroidManifest.xml:2:1-11:12
-INJECTED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:2:1-226:12
-INJECTED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:2:1-226:12
-INJECTED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:2:1-226:12
+INJECTED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:2:1-227:12
+INJECTED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:2:1-227:12
+INJECTED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:2:1-227:12
 	package
 		ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:3:5-29
 		INJECTED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml
 		INJECTED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml
-		ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:2:1-226:12
+		ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:2:1-227:12
 		INJECTED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml
-		ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:2:1-226:12
+		ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:2:1-227:12
 		INJECTED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:2:11-69
@@ -138,7 +138,7 @@ ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:17:5-68
 	android:name
 		ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:17:22-65
 application
-ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:20:5-224:19
+ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:20:5-225:19
 MERGED from [:lib-zxing] D:\Android\wai_bao\1111\333\lib-zxing\build\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-16:19
 MERGED from [:lib-zxing] D:\Android\wai_bao\1111\333\lib-zxing\build\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-16:19
 MERGED from [com.android.support:design:28.0.0] C:\Users\15036\.gradle\caches\transforms-2\files-2.1\b3ab882a6a42abc14a3c0cd8a1326c03\design-28.0.0\AndroidManifest.xml:22:5-20
@@ -551,140 +551,144 @@ activity#com.bishang366.ui.entrust.TrustlistconstractdataActivity
 ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:184:9-93
 	android:name
 		ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:184:19-90
-activity#com.bishang366.ui.entrust.TrustDetailActivity
-ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:185:9-82
+activity#com.bishang366.ui.entrust.TrustOptionListActivity
+ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:185:9-86
 	android:name
-		ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:185:19-79
-activity#com.bishang366.ui.myEntrust.MyEntrustActivity
+		ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:185:19-83
+activity#com.bishang366.ui.entrust.TrustDetailActivity
 ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:186:9-82
 	android:name
 		ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:186:19-79
+activity#com.bishang366.ui.myEntrust.MyEntrustActivity
+ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:187:9-82
+	android:name
+		ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:187:19-79
 activity#com.bishang366.ui.bind_account.BindAccountActivity
-ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:187:9-87
+ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:188:9-87
 	android:name
-		ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:187:19-84
+		ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:188:19-84
 activity#com.bishang366.ui.bind_account.BindAliActivity
-ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:188:9-83
+ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:189:9-83
 	android:name
-		ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:188:19-80
+		ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:189:19-80
 activity#com.bishang366.ui.bind_account.BindBankActivity
-ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:189:9-84
+ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:190:9-84
 	android:name
-		ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:189:19-81
+		ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:190:19-81
 activity#com.bishang366.ui.bind_account.BindWeiChatActivity
-ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:190:9-87
+ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:191:9-87
 	android:name
-		ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:190:19-84
+		ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:191:19-84
 activity#com.bishang366.ui.aboutus.AboutJianJieActivity
-ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:191:9-83
+ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:192:9-83
 	android:name
-		ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:191:19-80
+		ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:192:19-80
 activity#com.bishang366.ui.aboutus.AboutWeiXinActivity
-ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:192:9-82
+ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:193:9-82
 	android:name
-		ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:192:19-79
+		ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:193:19-79
 activity#com.bishang366.ui.wallet.ChongBiJLActivity
-ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:193:9-79
+ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:194:9-79
 	android:name
-		ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:193:19-76
+		ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:194:19-76
 activity#com.bishang366.ui.wallet.TiBiJLActivity
-ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:194:9-76
+ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:195:9-76
 	android:name
-		ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:194:19-73
+		ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:195:19-73
 activity#com.bishang366.ui.setting.GongGaoActivity
-ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:195:9-78
+ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:196:9-78
 	android:name
-		ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:195:19-75
+		ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:196:19-75
 activity#com.bishang366.ui.setting.HelpActivity
-ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:196:9-75
+ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:197:9-75
 	android:name
-		ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:196:19-72
+		ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:197:19-72
 activity#com.bishang366.ui.message_detail.MessageHelpActivity
-ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:197:9-89
+ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:198:9-89
 	android:name
-		ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:197:19-86
+		ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:198:19-86
 activity#com.bishang366.ui.setting.HelpXinShouActivity
-ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:198:9-82
+ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:199:9-82
 	android:name
-		ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:198:19-79
+		ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:199:19-79
 activity#com.bishang366.ui.setting.HelpChangjianActivity
-ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:199:9-84
+ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:200:9-84
 	android:name
-		ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:199:19-81
+		ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:200:19-81
 activity#com.bishang366.ui.setting.HelpJiaoyiActivity
-ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:200:9-81
+ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:201:9-81
 	android:name
-		ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:200:19-78
+		ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:201:19-78
 activity#com.bishang366.ui.setting.HelpBizhongActivity
-ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:201:9-82
+ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:202:9-82
 	android:name
-		ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:201:19-79
+		ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:202:19-79
 activity#com.bishang366.ui.setting.HelpHangqingActivity
-ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:202:9-83
-	android:name
-		ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:202:19-80
-activity#com.bishang366.ui.setting.HelpTiaokuanActivity
 ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:203:9-83
 	android:name
 		ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:203:19-80
+activity#com.bishang366.ui.setting.HelpTiaokuanActivity
+ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:204:9-83
+	android:name
+		ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:204:19-80
 activity#com.bishang366.ui.setting.HelpQitaActivity
-ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:204:9-79
+ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:205:9-79
 	android:name
-		ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:204:19-76
+		ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:205:19-76
 activity#com.bishang366.ui.credit.CreditInfoActivity
-ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:205:9-80
+ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:206:9-80
 	android:name
-		ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:205:19-77
+		ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:206:19-77
 activity#com.bishang366.ui.seller.SellerApplyActivity
-ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:206:9-81
+ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:207:9-81
 	android:name
-		ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:206:19-78
+		ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:207:19-78
 activity#com.bishang366.ui.seller.SellerApplyCommitActivity
-ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:207:9-87
+ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:208:9-87
 	android:name
-		ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:207:19-84
+		ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:208:19-84
 activity#com.bishang366.ui.aboutus.AddUrlActivity
-ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:208:9-77
+ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:209:9-77
 	android:name
-		ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:208:19-74
+		ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:209:19-74
 activity#com.bishang366.ui.wallet.OverturnActivity
-ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:209:9-211:47
+ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:210:9-212:47
 	android:launchMode
-		ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:211:13-44
+		ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:212:13-44
 	android:name
-		ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:210:13-69
+		ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:211:13-69
 activity#com.bishang366.ui.setting.LanguageActivity
-ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:212:9-79
+ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:213:9-79
 	android:name
-		ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:212:19-76
+		ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:213:19-76
 activity#com.bishang366.ui.wallet.SeleteOptionCoinActivity
-ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:214:9-95
+ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:215:9-95
 	android:name
-		ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:214:19-83
+		ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:215:19-83
 service#com.bishang366.serivce.MyService
-ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:215:9-68
+ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:216:9-68
 	android:name
-		ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:215:18-65
+		ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:216:18-65
 service#com.bishang366.serivce.MyTextService
-ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:216:9-72
+ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:217:9-72
 	android:name
-		ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:216:18-69
+		ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:217:18-69
 service#com.bishang366.serivce.MyTextService_contract
-ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:217:9-81
+ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:218:9-81
 	android:name
-		ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:217:18-78
+		ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:218:18-78
 receiver#com.maiml.updatelibrary.receiver.InstallReceiver
-ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:219:9-223:20
+ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:220:9-224:20
 	android:name
-		ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:219:19-82
+		ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:220:19-82
 intent-filter#action:name:android.intent.action.DOWNLOAD_COMPLETE
-ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:220:13-222:29
+ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:221:13-223:29
 	android:priority
-		ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:220:28-49
+		ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:221:28-49
 action#android.intent.action.DOWNLOAD_COMPLETE
-ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:221:17-82
+ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:222:17-82
 	android:name
-		ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:221:25-79
+		ADDED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml:222:25-79
 uses-sdk
 INJECTED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from D:\Android\wai_bao\1111\333\app\src\main\AndroidManifest.xml

@@ -1904,6 +1904,7 @@ id bu_close
 id bu_close2
 id bu_fall
 id bu_inventory
+id bu_position
 id bu_rise
 id bu_true
 id bu_true2

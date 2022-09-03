@@ -38,6 +38,8 @@ import com.bishang366.entity.OptionIconBean;
 import com.bishang366.entity.OptionOrderHistoryBean;
 import com.bishang366.serivce.SocketResponse;
 import com.bishang366.socket.ISocket;
+import com.bishang366.ui.entrust.TrustListActivity;
+import com.bishang366.ui.entrust.TrustOptionListActivity;
 import com.bishang366.ui.home.ConstractFragment;
 import com.bishang366.ui.home.MarketBaseFragment;
 import com.bishang366.ui.kline.KlineContract;
@@ -194,6 +196,8 @@ public class OptionRealFragment extends BaseTransFragment implements KlineContra
     TextView tvTimeCurrent;
     @BindView(R.id.tv_compensation)
     TextView tvCompensation;
+    @BindView(R.id.bu_position)
+    TextView bu_position;
 
     private ArrayList<TextView> textViews;
     private List<BaseFragment> menusFragments = new ArrayList<>();
@@ -332,6 +336,7 @@ public class OptionRealFragment extends BaseTransFragment implements KlineContra
         buRise.setOnClickListener(this);
         buFall.setOnClickListener(this);
         ibBack.setOnClickListener(this);
+        bu_position.setOnClickListener(this);
         tvCompensation.setOnClickListener(this);
         viewModel.getCurrentSortInfo().observe(this, it -> {
             if (!it.isEmpty()) {
@@ -347,6 +352,8 @@ public class OptionRealFragment extends BaseTransFragment implements KlineContra
             historyAdapter.notifyDataSetChanged();
         });
     }
+
+
 
     void cancelCountDown() {
         if (timer != null) {
@@ -538,6 +545,13 @@ public class OptionRealFragment extends BaseTransFragment implements KlineContra
                 break;
             case R.id.ibBack:
                 finish();
+                break;
+            case R.id.bu_position:
+                if (MyApplication.getApp().isLogin()) {
+                    TrustOptionListActivity.show(getActivity(),optionBean.getSymbol());
+                } else {
+                    WonderfulToastUtils.showToast(getActivity().getResources().getText(R.string.text_xian_login) + "");
+                }
                 break;
             case R.id.tv_compensation:
                 CompensationDialogFragment orderConfirmDialogFragment = new CompensationDialogFragment();
