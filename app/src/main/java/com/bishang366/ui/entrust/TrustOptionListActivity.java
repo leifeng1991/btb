@@ -177,7 +177,7 @@ public class TrustOptionListActivity extends BaseActivity implements View.OnClic
                 } else {
                     displayLoadingPopup();
                     historyPage = 1;
-                    mPresenter.getSecondOptionHistory(symbol, historyPage + "", pageSize + "");
+                    mPresenter.getSecondOptionHistory(symbol, "0", "40000");
                     if (adapter != null) {
                         adapter.setEnableLoadMore(false);
                         adapter.loadMoreEnd(false);
@@ -241,7 +241,7 @@ public class TrustOptionListActivity extends BaseActivity implements View.OnClic
             mPresenter.getSecondOptionCurrent(symbol);
         } else {
             historyPage = historyPage + 1;
-            mPresenter.getSecondOptionHistory(symbol, historyPage + "", pageSize + "");
+            mPresenter.getSecondOptionHistory(symbol, "0", "40000");
         }
     }
 //    private void initViewPager() {
@@ -417,7 +417,7 @@ public class TrustOptionListActivity extends BaseActivity implements View.OnClic
         tv_title_history_trust.setSelected(true);
         history_trust_underline.setVisibility(View.VISIBLE);
         isCurrent = false;
-        mPresenter.getSecondOptionHistory(symbol, historyPage+"", pageSize+"");
+        mPresenter.getSecondOptionHistory(symbol, "0", "40000");
     }
 
     private void setCurrentSelected() {
