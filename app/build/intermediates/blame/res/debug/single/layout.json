@@ -1,0 +1,786 @@
+[
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\adapter_compensation.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\adapter_compensation.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_release_ads.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\activity_release_ads.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_credit_info.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\activity_credit_info.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\textview_pop.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\textview_pop.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\dialog_fragment_header_select.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\dialog_fragment_header_select.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\adapter_wallet_contract.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\adapter_wallet_contract.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\layout_mylocked_item.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\layout_mylocked_item.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\popupwindow_fabi.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\popupwindow_fabi.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_favorite_market.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\fragment_favorite_market.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\loading_view.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\loading_view.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\empty_rv_ad.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\empty_rv_ad.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\adapter_current_entrust_layout.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\adapter_current_entrust_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_kline.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\fragment_kline.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_setting.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\activity_setting.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_overturn.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\activity_overturn.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\dialog_fragment_wallet.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\dialog_fragment_wallet.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\layout_mymining_item.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\layout_mymining_item.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\dialog_timelimit_view.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\dialog_timelimit_view.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\adapter_gonggao.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\adapter_gonggao.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\dialog_lock.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\dialog_lock.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\pop_loading.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\pop_loading.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\adapter_layout_option.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\adapter_layout_option.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_chat.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\activity_chat.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\adapter_ctcorder.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\adapter_ctcorder.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\layout_text_two2.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\layout_text_two2.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_list.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\activity_list.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\frgment_text_three.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\frgment_text_three.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_my_order.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\activity_my_order.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_email_sign_up.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\fragment_email_sign_up.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\dialog_fragment_order_confirm.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\dialog_fragment_order_confirm.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\adapter_assets_transaction.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\adapter_assets_transaction.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\layout_text_two.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\layout_text_two.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\pop_gcc.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\pop_gcc.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_appeal.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\activity_appeal.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_wallet_detail.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\activity_wallet_detail.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_set_lock.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\activity_set_lock.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_email_forgot.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\fragment_email_forgot.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_change_phone.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\activity_change_phone.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_detail.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\activity_detail.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\adapter_home_layout.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\adapter_home_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\adapter_layout_two2.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\adapter_layout_two2.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_about_us.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\activity_about_us.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\adapter_entrust_child.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\adapter_entrust_child.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\adapter_wallet_list.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\adapter_wallet_list.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_address.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\activity_address.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_ing_order.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\fragment_ing_order.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_bind_email.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\activity_bind_email.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_start2.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\activity_start2.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_select_option_coin.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\activity_select_option_coin.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\layout_text_one.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\layout_text_one.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_bind_ali.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\activity_bind_ali.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_reset_account_pwd.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\activity_reset_account_pwd.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\adapter_sell_layout.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\adapter_sell_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_chat_list.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\activity_chat_list.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_option_real.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\fragment_option_real.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_email.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\activity_email.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\layout_refresh_footer.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\layout_refresh_footer.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\custom_listview_fresh.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\custom_listview_fresh.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_permission.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\activity_permission.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_ctc.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\activity_ctc.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\dialog_assetpwd.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\dialog_assetpwd.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_bottom_show_buy_sell.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\fragment_bottom_show_buy_sell.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_my_attend.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\activity_my_attend.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_language.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\activity_language.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\permission_die.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\permission_die.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_phone.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\activity_phone.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_my_entrust.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\activity_my_entrust.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\adapter_layout_two.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\adapter_layout_two.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\adapter_chat_list.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\adapter_chat_list.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_help_changjian.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\activity_help_changjian.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_depth.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\item_depth.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_tibijilu.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\activity_tibijilu.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\adapter_select_coins.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\adapter_select_coins.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_credit.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\activity_credit.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\pop_six_multiples2.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\pop_six_multiples2.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_select_account.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\activity_select_account.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\dialog_coins_view.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\dialog_coins_view.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_four.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\fragment_four.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\dialog_common.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\dialog_common.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\dialog_fragment_compensation.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\dialog_fragment_compensation.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_account_pwd.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\activity_account_pwd.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_extract.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\activity_extract.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\adapter_message.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\adapter_message.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_activity.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\fragment_activity.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_select_coin.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\activity_select_coin.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\dialog_fragment_entrust.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\dialog_fragment_entrust.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\layout_dialog.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\layout_dialog.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_phone_sign_up.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\fragment_phone_sign_up.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_seller_apply.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\activity_seller_apply.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\adapter_trust_history_layout.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\adapter_trust_history_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\adapter_home_viewpage.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\adapter_home_viewpage.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\layout_activitydetail_item.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\layout_activitydetail_item.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\dialog_shili.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\dialog_shili.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\pop_five_invite.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\pop_five_invite.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_seller_apply_commit.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\activity_seller_apply_commit.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_help_qita.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\activity_help_qita.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_six.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\fragment_six.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\adapter_tibi.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\adapter_tibi.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_about_weixin.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\activity_about_weixin.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_usdt_market.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\fragment_usdt_market.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\adapter_order.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\adapter_order.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_country.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\activity_country.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_sign_up.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\activity_sign_up.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\dialog_fragment_ads.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\dialog_fragment_ads.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_wallet.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\activity_wallet.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_my_info.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\activity_my_info.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\adapter_layout_contract.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\adapter_layout_contract.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_btc_market.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\fragment_btc_market.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\empty_no_message.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\empty_no_message.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_trust.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\fragment_trust.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\pop_six_multiples.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\pop_six_multiples.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_volume.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\fragment_volume.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\adapter_c2c.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\adapter_c2c.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\adapter_option_history.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\adapter_option_history.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_lead.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\activity_lead.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_depth.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\fragment_depth.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\pop_seven_icon.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\pop_seven_icon.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_bind_phone.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\activity_bind_phone.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\dialog_jypassword.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\dialog_jypassword.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_ctcorderdetail.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\activity_ctcorderdetail.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_login.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_help_xinshou.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\activity_help_xinshou.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\adapter_chongbi.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\adapter_chongbi.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\adapter_trust_constract.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\adapter_trust_constract.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\adapter_addmultiples.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\adapter_addmultiples.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_option_icon.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\item_option_icon.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\empty_address.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\empty_address.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_feedback.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\activity_feedback.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\dialog_fragment_entrust_constract.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\dialog_fragment_entrust_constract.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\pop_six_flat.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\pop_six_flat.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_five.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\fragment_five.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\adapter_shaixuan.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\adapter_shaixuan.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_ads.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\activity_ads.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\adapter_trust_layout.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\adapter_trust_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_order_detial.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\activity_order_detial.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_one.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\fragment_one.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_gonggao.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\activity_gonggao.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\pop_order_detail.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\pop_order_detail.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_edit_account_pwd.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\activity_edit_account_pwd.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_help_tiaokuan.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\activity_help_tiaokuan.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_recharge.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\activity_recharge.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_bind_bank.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\activity_bind_bank.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_option.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\activity_option.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\adapter_country.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\adapter_country.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\layout_text_one2.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\layout_text_one2.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_phone_forgot.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\fragment_phone_forgot.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\empty_no_order.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\empty_no_order.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\popupwindow_ctb.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\popupwindow_ctb.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_pop_five_invite.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\item_pop_five_invite.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_c2_cbuy.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\activity_c2_cbuy.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_edit_login_pwd.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\activity_edit_login_pwd.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\layout_detail_item.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\layout_detail_item.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_bind_account.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\activity_bind_account.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\layout_myorder_item.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\layout_myorder_item.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\adapter_address.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\adapter_address.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_message_detail.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\activity_message_detail.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\pop_six_model.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\pop_six_model.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_help_bizhong.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\activity_help_bizhong.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_chongbijilu.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\activity_chongbijilu.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\dialog_fragment_exchange_bb.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\dialog_fragment_exchange_bb.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_help_hangqing.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\activity_help_hangqing.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_ad.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\fragment_ad.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_about_jianjie.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\activity_about_jianjie.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_help.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\activity_help.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\layout_kline_popwindow.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\layout_kline_popwindow.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\adapter_option_cycle.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\adapter_option_cycle.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\layout_activity_item.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\layout_activity_item.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\adapter_chat.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\adapter_chat.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_order_confirm.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\activity_order_confirm.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\adapter_wallet.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\adapter_wallet.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_lock.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\activity_lock.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_trust_detail.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\activity_trust_detail.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_two.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\fragment_two.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_bind_weicaht.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\activity_bind_weicaht.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_help_jiaoyi.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\activity_help_jiaoyi.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\adapter_transfer_mode.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\adapter_transfer_mode.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_message.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\activity_message.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_eth_market.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\fragment_eth_market.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\pop_six_entrust.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\pop_six_entrust.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_volume.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\item_volume.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_add_url.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\activity_add_url.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\empty_not_login.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\empty_not_login.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_trustlistconstractdata.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\activity_trustlistconstractdata.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\adapter_dialog_coininfo.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\adapter_dialog_coininfo.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\layout_safevalidate.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\layout_safevalidate.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\adapter_ads.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\adapter_ads.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_current_constract.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\activity_current_constract.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\adapter_trust_new.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\adapter_trust_new.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\my_toast.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\my_toast.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_wallet_list.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\activity_wallet_list.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_contract.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\fragment_contract.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_current_trust.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\activity_current_trust.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_change_lead.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\activity_change_lead.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_seven.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\fragment_seven.xml"
+    },
+    {
+        "merged": "D:\\Android\\wai_bao\\1111\\333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\adapter_option_history_layout.xml",
+        "source": "D:\\Android\\wai_bao\\1111\\333\\app\\src\\main\\res\\layout\\adapter_option_history_layout.xml"
+    }
+]
