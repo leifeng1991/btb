@@ -200,7 +200,7 @@ public class WalletActivity extends BaseActivity implements WalletContract.View,
         });
         viewModel.getBalance().observe(this, it -> {
             if (SharedPreferenceInstance.getInstance().getMoneyShowType() == 1) {
-                tvAmount.setText(WonderfulMathUtils.getRundNumber(sumUsd + sumUsd_c + it, 4, null));
+                tvAmount.setText(WonderfulMathUtils.getRundNumber(sumUsd + sumUsd_c + it, 3, null));
                 tvCnyAmount.setText("≈" + WonderfulMathUtils.getRundNumber(sumUsd + sumUsd_c + it, 2, null) + "USD");
             } else if (SharedPreferenceInstance.getInstance().getMoneyShowType() == 2) {
                 tvAmount.setText("********");
