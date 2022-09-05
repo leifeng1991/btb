@@ -197,7 +197,6 @@
                         android:id="@+id/tab_time"
                         android:layout_width="match_parent"
                         android:layout_height="30dp"
-                        android:layout_weight="1"
                         android:background="@color/primaryBackLight"
                         android:gravity="center_vertical"
                         android:orientation="horizontal" />
@@ -210,7 +209,8 @@
                     <com.bishang366.ui.kline.kline.KLineView
                         android:id="@+id/kline_view"
                         android:layout_width="match_parent"
-                        android:layout_height="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_weight="1"
                         android:overScrollMode="never" />
 
                 </LinearLayout>

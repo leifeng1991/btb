@@ -2,6 +2,7 @@ package com.bishang366.ui.option
 
 import com.bishang366.R
 import com.bishang366.entity.OptionDetailInfo
+import com.bishang366.utils.SharedPreferenceInstance
 import com.chad.library.adapter.base.BaseQuickAdapter
 import com.chad.library.adapter.base.BaseViewHolder
 import com.github.mikephil.charting.components.YAxis
@@ -15,7 +16,15 @@ class OptionOrderAdapter(layoutResId: Int, data: List<OptionDetailInfo?>?, priva
 
 //        helper.setText(R.id.time, item.createTime)
         val sdfLa = SimpleDateFormat("yyyy-MM-dd HH:mm:ss")
-        sdfLa.timeZone = TimeZone.getTimeZone("America/Chicago")
+        when (SharedPreferenceInstance.getInstance().languageCode) {
+            -1, 1 -> sdfLa.timeZone = TimeZone.getTimeZone("Asia/Shanghai")
+            3 -> sdfLa.timeZone = TimeZone.getTimeZone("Asia/Tokyo")
+            4 -> sdfLa.timeZone = TimeZone.getTimeZone("Asia/Seoul")
+            5 -> sdfLa.timeZone = TimeZone.getTimeZone("Europe/Berlin")
+            6 -> sdfLa.timeZone = TimeZone.getTimeZone("Europe/Paris")
+            7 -> sdfLa.timeZone = TimeZone.getTimeZone("Europe/Rome")
+            8 -> sdfLa.timeZone = TimeZone.getTimeZone("America/Los_Angeles")
+        }
         val format = sdfLa.format(YAxis.dateToStamp(item.createTime))
         helper.setText(R.id.time, format)
 
