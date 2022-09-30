@@ -1291,8 +1291,8 @@ public class RemoteDataSource implements DataSource {
     }
 
     @Override
-    public void sendCode(String token, String phone, final DataCallback dataCallback) {
-        WonderfulOkhttpUtils.post().url(UrlFactory.getSendCodeUrl()).addHeader("x-auth-token", token).addParams("phone", phone).build().execute(new StringCallback() {
+    public void sendCode(String token, String phone, String country, final DataCallback dataCallback) {
+        WonderfulOkhttpUtils.post().url(UrlFactory.getSendCodeUrl()).addHeader("x-auth-token", token).addParams("phone", phone).addParams("country",country).build().execute(new StringCallback() {
             @Override
             public void onError(Request request, Exception e) {
                 super.onError(request, e);

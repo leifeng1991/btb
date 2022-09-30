@@ -22,6 +22,6 @@ public interface BindPhoneContract {
     interface Presenter extends Contract.BasePresenter {
         void bindPhone(String token, String s, String code, String code1);
 
-        void sendCode(String token, String phone);
+        void sendCode(String token, String phone, String country);
     }
 }

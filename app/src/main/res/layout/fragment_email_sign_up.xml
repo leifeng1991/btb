@@ -60,7 +60,7 @@
                 android:text="@string/phone_sign_up"
                 android:textColor="#fff"
                 android:textSize="14sp"
-                android:visibility="gone" tools:visibility="gone"/>
+                android:visibility="visible" tools:visibility="visible"/>
 
     </LinearLayout>
 

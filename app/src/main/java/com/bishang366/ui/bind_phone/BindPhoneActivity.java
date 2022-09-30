@@ -46,7 +46,7 @@ public class BindPhoneActivity extends BaseActivity implements BindPhoneContract
     @BindView(R.id.tvTitle)
     TextView tvTitle;
     private int type = -1;
-    private Country country;
+    private Country country = new Country();
     private BindPhoneContract.Presenter presenter;
     private CountDownTimer timer;
 
@@ -62,6 +62,7 @@ public class BindPhoneActivity extends BaseActivity implements BindPhoneContract
 
     @Override
     protected void initViews(Bundle savedInstanceState) {
+        country.setAreaCode("86");
         new BindPhonePresenter(Injection.provideTasksRepository(getApplicationContext()), this);
         ibBack.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -92,7 +93,7 @@ public class BindPhoneActivity extends BaseActivity implements BindPhoneContract
     private void sendCode() {
         String phone = etPhone.getText().toString();
         if (WonderfulStringUtils.isEmpty(phone)) return;
-        presenter.sendCode(getToken(), /*tvAreaCode.getText().toString() +*/ phone);
+        presenter.sendCode(getToken(), /*tvAreaCode.getText().toString() +*/ phone,country.getAreaCode());
         tvSend.setEnabled(false);
     }
 

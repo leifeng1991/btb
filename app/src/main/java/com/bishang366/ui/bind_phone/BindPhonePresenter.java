@@ -37,9 +37,9 @@ public class BindPhonePresenter implements BindPhoneContract.Presenter {
     }
 
     @Override
-    public void sendCode(String token, String phone) {
+    public void sendCode(String token, String phone, String country) {
         view.displayLoadingPopup();
-        dataRepository.sendCode(token, phone, new DataSource.DataCallback() {
+        dataRepository.sendCode(token, phone, country, new DataSource.DataCallback() {
             @Override
             public void onDataLoaded(Object obj) {
                 view.hideLoadingPopup();
